@@ -53,13 +53,14 @@ Meeting Room: **TBC**
 
 | Time          | Chair                  | Description           |
 |---------------|------------------------|-----------------------|
-| **9:15am**    |                        | Intro to day    |
+| **9:00am**    | *Coffee break*  | Coffee and registration    |
 | **9:30–10:00am**  | *TBC*             | *TBC*  |
 | **10:00–10:45am** | *TBC*             | *TBC*  |
 | **10:45–11:05am** |                   | Bio-break  |
 | **11:05–12:15pm** | *TBC*             | *TBC — Discussion Panel*  |
-| **12:15–1:30pm**  |                   | Lunch <br> 🍴 *Lunch & Learn sessions TBC*  |
-| **1:30–4:00pm**   | *TBC*             | **Round tables** <br> Split into 2 × 1hr sessions with short break between. Attendance is flexible. |
+| **12:00–1:00pm**  | *Lunch*   | Lunch <br> 🍴 *Lunch & Learn sessions TBC*  |
+| **1:30–3:00pm**   | *TBC*             | **Round tables** <br> Split into 2 × 1hr sessions with short break between. Attendance is flexible. |
+| **3:00–3:30pm**   | *Coffee break*             |  |
 | **4:00–4:45pm**   | Round table chairs | Chairs report back notes, and any planned follow up  |
 | **4:45–5:00pm**   | *TBC*             | Wrap up  |
 | **6:00–8:00pm**   | *TBC*             | Social event — *Venue TBC*  |
