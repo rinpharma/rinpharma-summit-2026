@@ -56,7 +56,7 @@ Meeting Room: **TBC**
 | **9:00am**    | *Coffee break*  | Coffee and registration    |
 | **9:30–10:00am**  | *TBC*             | *TBC*  |
 | **10:00–10:45am** | *TBC*             | *TBC*  |
-| **10:45–11:05am** |                   | Bio-break  |
+| **10:45–11:05am** |                   | Bio-break (TBC-no coffee booked at this time) |
 | **11:05–12:15pm** | *TBC*             | *TBC — Discussion Panel*  |
 | **12:00–1:00pm**  | *Lunch*   | Lunch <br> 🍴 *Lunch & Learn sessions TBC*  |
 | **1:30–3:00pm**   | *TBC*             | **Round tables** <br> Split into 2 × 1hr sessions with short break between. Attendance is flexible. |
