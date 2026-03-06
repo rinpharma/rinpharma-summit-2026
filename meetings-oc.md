@@ -1,13 +1,17 @@
 # Organising Committee Meetings
 
-Michael Mayer (posit)  
-Aga Rasinksa (atorus)
-Gregory Chen (MSD)
-Shannon Haughton (GSK)
-James Black (Novartis)
-Orla Doyle (Novartis)
-Satish Murphy (J&J)
-Phil Bowsher (Posit)
+## Members
+
+- Michael Mayer (Posit)
+- Aga Rasinksa (Atorus)
+- Gregory Chen (MSD)
+- Shannon Haughton (GSK)
+- James Black (Novartis)
+- Orla Doyle (Novartis)
+- Satish Murphy (J&J)
+- Phil Bowsher (Posit)
+
+---
 
 ## 2026-02-06
 
