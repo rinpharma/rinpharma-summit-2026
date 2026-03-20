@@ -13,6 +13,41 @@
 
 ---
 
+## 2026-02-20
+
+### James Notes
+
+- Signup - free, likely to go quickly. **Give OC and AD Board early access?** Circle back in a few meetings. James add to next meeting
+- Panel - Designing a clinical workflow from scratch. SCOPE: clinical reporting, clarify if it's something like post-data review -> CSR. Gregory knows some non-clinical (e.g. manafacturing), should we have someone with an outside in perspective. James could suggest some RWE people (for more data sciency approaches to Gxp)
+
+  
+- Invited session:
+
+1) 'ARD/ARS' - interoperable approaches to analysis artifacts. Common structure for data collection, to make it easy to build tools against the data. Novo/Merck/Roche have looked at this in HTA, pharmaverse in full development
+
+2) 'validation' - It's very easy now to make packages. Less re-use of tools if people are relying on AI assisted analysis. What is the validation impacts, and what can be done to streamline this working model. what is the impact of AI on validation.
+   
+3) 'modelling & simulation needs' - more needs due to complexity of designs increasing
+
+### AI notes
+
+**Decisions**
+
+- Combine US and EU advisory boards into one board for topic suggestions.
+- Keep a single GitHub section for topic contributions.
+- Move forward with panel proposal on redesigning clinical workflows, scope to be refined.
+- Add roundtable topic suggestions to GitHub for further discussion.
+
+**Open questions**
+
+- Event fee or free: pros and cons discussed, no conclusion reached.
+- Registration management: contributor-based or open, no decision made.
+- Scope and starting point for workflow redesign panel remain open for refinement.
+- Panelist diversity: include outsiders to avoid echo chamber, no decision.
+- Invited speakers and topics: ideas discussed, no final selection.
+- Roundtable topics: validation, simulation, standardization discussed, no decision.
+
+
 ## 2026-02-06
 
 ### Summary
