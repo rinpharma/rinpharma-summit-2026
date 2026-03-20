@@ -10,6 +10,7 @@
 - Orla Doyle (Novartis)
 - Satish Murphy (J&J)
 - Phil Bowsher (Posit)
+- Mahmoud Hallal (Roche)
 
 ---
 
