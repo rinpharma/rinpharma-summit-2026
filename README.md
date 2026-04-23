@@ -1,113 +1,15 @@
 # R/Pharma Summit (in-person event Monday, October 5, 2026)
 
-Formatted version available at https://rinpharma.github.io/rinpharma-summit-2026/
+📅 **Full agenda and event details:** [rinpharma.github.io/rinpharma-summit-2026](https://rinpharma.github.io/rinpharma-summit-2026/)
 
-## Background
+## About
 
-In 2018 and 2019, **R in Pharma** was in-person at Harvard University and focused on opportunities for direct interaction with speakers and guests.  
-These relationships and connections have grown into many exciting areas of Open Source drug development.  
+The R/Pharma Roundtable Summit 2026 is an in-person event on **Monday, October 5, 2026** at the **Novartis Pavillion, Basel, Switzerland**.
 
-- In **2023** we partnered with *Posit*, hosting an in-person session at posit::conf(2023) in Chicago.  
-- In **2024**, the session continued at posit::conf(2024) in Seattle.  
-- In **2025**, we hosted a summit at posit::conf(2025) in Atlanta.  
-- We're thrilled to bring this to **Basel** in **2026** at the Novartis Pavillion! 🎉
+## Contributing
 
----
-
-Over the last five years we’ve seen an explosive growth in the use of R and other open source technologies across drug development, with an increasing focus on **pan-company collaboration**.  
-
-The R/Pharma Roundtable Summit provides an **open, collaborative, and inclusive environment** to:
-
-- Share learnings  
-- Understand common themes across our industry  
-- Establish collaboration opportunities  
-
-The focus is to foster **in-person discussions** about key items such as *reproducibility* and *submissions*, much like the original Harvard events.  
-
-> 🔗 Review the 2023–2025 roundtable summaries here:  
-> [rinpharma.github.io/roundtables](https://rinpharma.github.io/roundtables/)
-
----
-
-### Call for Input
-
-**You can contribute to the discussion about the final agenda!**  
-Join the GitHub discussions here:  
+Join the GitHub discussions to contribute to the agenda:  
 👉 [rinpharma-summit-2026 Discussions](https://github.com/rinpharma/rinpharma-summit-2026/discussions)
-
----
-
-## Location
-
-**Novartis Pavillion**  
-Novartis Campus  
-Basel, Switzerland  
-Meeting Room: **TBC**  
-
-<!-- TODO: Add venue photo -->
-<!-- <img src="novartis_pavillion.png" alt="Summit Room — Novartis Pavillion" width="75%"> -->
-
----
-
-## Agenda
-
-| Time          | Chair                  | Description           |
-|---------------|------------------------|-----------------------|
-| **9:00am**    | *Coffee break*  | Coffee and registration    |
-| **9:30–10:00am**  | *TBC*             | *TBC*  |
-| **10:00–10:45am** | *TBC*             | *TBC*  |
-| **10:45–11:05am** |                   | Bio-break (TBC-no coffee booked at this time) |
-| **11:05–12:15pm** | *TBC*             | *TBC — Discussion Panel*  |
-| **12:00–1:00pm**  | *Lunch*   | Lunch <br> 🍴 *Lunch & Learn sessions TBC*  |
-| **1:30–3:00pm**   | *TBC*             | **Round tables** <br> Split into 2 × 1hr sessions with short break between. Attendance is flexible. |
-| **3:00–3:30pm**   | *Coffee break*             |  |
-| **4:00–4:45pm**   | Round table chairs | Chairs report back notes, and any planned follow up  |
-| **4:45–5:00pm**   | *TBC*             | Wrap up  |
-| **6:00–8:00pm**   | *TBC*             | Social event — *Venue TBC*  |
----
-
-### Roundtables
-
-#### 1. *TBC*
-##### Chairs: *TBC*
-- *Topics to be confirmed*  
-
-#### 2. *TBC*
-##### Chairs: *TBC*
-- *Topics to be confirmed*  
-
-#### 3. *TBC*
-##### Chairs: *TBC*
-- *Topics to be confirmed*  
-
-#### 4. *TBC*
-##### Chairs: *TBC*
-- *Topics to be confirmed*  
-
-#### 5. *TBC*
-##### Chairs: *TBC*
-- *Topics to be confirmed*  
-
-#### 6. *TBC*
-##### Chairs: *TBC*
-- *Topics to be confirmed*  
-
-## Audience
-
-These round tables are for you if:
-
-- You are an active contributor to the adoption of data science best practices across drug development  
-- You sponsor data science codebases  
-- You are an informatics professional designing and implementing **GxP-conforming** data science platforms  
-- You are interested in cross-pharma collaboration  
-
----
-
-## Round Table Advisory Board
-
-A mix of 50 people from various pharmaceutical companies, CRO and organization supporting the advancement of open source for drug development and clinical reporting.
-
----
 
 ## Organising Committee
 
@@ -116,6 +18,4 @@ A mix of 50 people from various pharmaceutical companies, CRO and organization s
 - Harvey Lieberman — *Novartis*  
 - Katie Igartua — *Tempus*  
 
-<!-- TODO: Confirm organising committee for 2026 -->
-
-This summit is run by [Open Source in Pharma](https://opensourceinpharma.com/), a non-profit aiming to support the use of open source languages in Pharma.
+This summit is run by [Open Source in Pharma](https://opensourceinpharma.com/).
