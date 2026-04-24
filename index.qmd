@@ -125,11 +125,14 @@ A mix of 50 people from various pharmaceutical companies, CRO and organization s
 
 # Organising Committee
 
-- Phil Bowsher — *Posit*  
-- James Black — *Roche*  
-- Harvey Lieberman — *Novartis*  
-- Katie Igartua — *Tempus*  
-
-<!-- TODO: Confirm organising committee for 2026 -->  
+- **Michael Mayer** (Posit)
+- **Aga Rasinksa** (Atorus)
+- **Gregory Chen** (MSD)
+- **Shannon Haughton** (GSK)
+- **James Black** (Novartis)
+- **Orla Doyle** (Novartis)
+- **Satish Murphy** (J&J)
+- **Phil Bowsher** (Posit)
+- **Mahmoud Hallal** (Roche)
 
 This summit is run by [Open Source in Pharma](https://opensourceinpharma.com/), a non-profit aiming to support the use of open source languages in Pharma.
