@@ -13,9 +13,14 @@ Join the GitHub discussions to contribute to the agenda:
 
 ## Organising Committee
 
-- Phil Bowsher — *Posit*  
-- James Black — *Roche*  
-- Harvey Lieberman — *Novartis*  
-- Katie Igartua — *Tempus*  
+- **Michael Mayer** (Posit)
+- **Aga Rasinksa** (Atorus)
+- **Gregory Chen** (MSD)
+- **Shannon Haughton** (GSK)
+- **James Black** (Novartis)
+- **Orla Doyle** (Novartis)
+- **Satish Murphy** (J&J)
+- **Phil Bowsher** (Posit)
+- **Mahmoud Hallal** (Roche)
 
 This summit is run by [Open Source in Pharma](https://opensourceinpharma.com/).
