@@ -36,7 +36,7 @@ Phil Bowsher and James Black reviewed how to coordinate US and EU summit plannin
 - **Board Structure and Website Management:** Phil described US board practices, and James confirmed the repository and website can accommodate both EU and US events depending on US organizer decisions.
 
 **Action Items and Next Steps:**
-James Black, Orla Doyle, Gregory Chen, and Aga Rasinksa aligned on immediate actions for speaker outreach, session refinement, and event launch readiness.
+James Black, Orla Doyle, Gregory Chen, and Aga Rasinska aligned on immediate actions for speaker outreach, session refinement, and event launch readiness.
 - **Speaker Outreach:** Orla will contact CDISC, Satish will check with Olivia or propose alternatives, and James will invite Pavel for AI validation.
 - **Session Content Finalization:** Orla and Gregory will refine ARD/ARS offline; James will adjust AI validation toward a two-speaker plus panel format for the 45-minute slot.
 - **Event Publicity and Signup:** James proposed making the event public and opening signups this month, with panel details to continue in the next meeting.
@@ -47,7 +47,7 @@ James Black, Orla Doyle, Gregory Chen, and Aga Rasinksa aligned on immediate act
 - **Invited Session Speaker Recruitment:** Check with Olivia or suggest another VP-level/senior director candidate to open the invited session, given Olivia's unavailability. (Satish)
 - **AI Session Speaker Outreach:** Reach out to Pavel to invite him as a speaker for the AI/validation invited session. (James)
 - **Panel Discussion Planning:** Coordinate offline to refine and potentially merge invited session sections, then notify the group when a revised version is ready for comments. (Orla, Gregory)
-- **Panel Session Preparation:** Prepare to discuss the panel session in the next meeting and be ready to lead that agenda item. (Aga Rasinksa)
+- **Panel Session Preparation:** Prepare to discuss the panel session in the next meeting and be ready to lead that agenda item. (Aga Rasinska)
 - **Summit Agenda GitHub Update:** Update the GitHub repository discussions to reflect both EU and US summit agendas. (James)
 
 ---
