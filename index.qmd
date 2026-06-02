@@ -55,8 +55,7 @@ Novartis Campus
 Basel, Switzerland  
 Meeting Room: **TBC**  
 
-<!-- TODO: Add venue photo -->
-<!-- ![Summit Room — Novartis Pavillion](novartis_pavillion.png){fig-align="center" width="80%"} -->
+![Novartis Pavillon, Basel — Photo: Alexandre Prevot (CC BY-SA 2.0 via Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg/1920px-Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg){fig-align="center" width="80%"}
 
 :::
 
