@@ -125,3 +125,14 @@ img {
 .agenda-table table td:nth-child(3) {
   width: auto;            /* description takes the rest */
 }
+
+/* Signup embed */
+.signup-embed {
+  display: flex;
+  justify-content: center;
+}
+
+.signup-embed iframe {
+  width: min(100%, 600px);
+  max-width: 100%;
+}
