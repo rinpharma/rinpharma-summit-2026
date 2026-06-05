@@ -134,8 +134,7 @@ img {
 
 .signup-embed iframe {
   width: min(100%, 600px);
-  height: 760px;
+  height: 980px;
   border: 1px solid #bfcbda88;
   border-radius: 4px;
-  overflow: hidden;
 }
