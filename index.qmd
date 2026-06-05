@@ -109,9 +109,7 @@ A mix of 50 people from various pharmaceutical companies, CRO and organization s
 <iframe
   src="https://luma.com/embed/event/evt-QlcPr0itnDFWIBM/simple"
   title="R/Pharma Summit 2026 event registration"
-  width="600"
-  height="450"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  scrolling="no"
   allow="fullscreen; payment"
 ></iframe>
 </div>
