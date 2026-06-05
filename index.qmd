@@ -67,8 +67,8 @@ Meeting Room: **TBC**
 | Time          | Chair                  | Description           |
 |---------------|------------------------|-----------------------|
 | **9:00am**    |                        | Intro to day    |
-| **9:15–10:00am**  | *Gregory Chen (MSD)*             | *ARS/ARD*  |
-| **10:00–11:00am** | *James Black (Novartis)*             | *AI*  |
+| **9:15–10:00am**  | *Gregory Chen (MSD)*             | *The Analysis Results Standard Revolution — From Static Tables to Living, Machine-Readable Submissions*  |
+| **10:00–11:00am** | *James Black (Novartis)*             | *Validation and QC Reimagined — Trust, Testing, and the AI-Augmented Programmer*  |
 | **11:00–11:15am** |                   | Bio-break  |
 | **11:15–12:15pm** | *Aga Rasinksa (Atorus)*             | *AI fireside chat: current status and workflow challenges, operational reality in regulated practice, and the operating model*  |
 | **12:15–1:30pm**  |                   | Lunch <br> 🍴 *Lunch & Learn sessions TBC*  |
