@@ -18,7 +18,11 @@ These relationships and connections have grown into many exciting areas of Open 
 - In **2023** we partnered with *Posit*, hosting an in-person session at posit::conf(2023) in Chicago.  
 - In **2024**, the session continued at posit::conf(2024) in Seattle.  
 - In **2025**, we hosted a summit at posit::conf(2025) in Atlanta.  
-- We're thrilled to bring this to **Basel** in **2026** at the Novartis Pavillion! 🎉
+
+::: callout-important
+We're thrilled to bring this to **Basel** in **2026** at the Novartis Pavillion! 🎉
+
+:::
 
 ---
 
