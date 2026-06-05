@@ -112,7 +112,6 @@ A mix of 50 people from various pharmaceutical companies, CRO and organization s
   height="450"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allow="fullscreen; payment"
-  tabindex="0"
 ></iframe>
 </div>
 :::
