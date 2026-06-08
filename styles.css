@@ -138,3 +138,34 @@ img {
   border: 1px solid #bfcbda88;
   border-radius: 4px;
 }
+
+/* Endorsement logos */
+.endorsement-block {
+  margin: 1rem 0 2rem;
+  text-align: center;
+}
+
+.endorsement-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.endorsement-logo {
+  display: block;
+  max-height: 64px;
+  width: auto;
+  height: auto;
+  margin: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.endorsement-logo-osp {
+  background-color: #1c3f95;
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+}
