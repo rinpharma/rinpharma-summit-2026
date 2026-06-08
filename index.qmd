@@ -20,8 +20,22 @@ These relationships and connections have grown into many exciting areas of Open 
 - In **2025**, we hosted a summit at posit::conf(2025) in Atlanta.  
 
 ::: callout-important
-We're thrilled to bring this to **Basel** in **2026** at the Novartis Pavillion! 🎉
+We're thrilled to bring this to **Basel** in **2026** at the Novartis Pavilion! 🎉
 
+:::
+
+---
+
+# Endorsement
+
+::: {.endorsement-block}
+This summit is an endorsed event under the umbrella of **R/Pharma** and **Open Source in Pharma**. The event is hosted by **Novartis** and **Posit**.
+
+::: {.endorsement-logos}
+[![R/Pharma logo](https://rinpharma.com/images/logo-rinpharma.png){.endorsement-logo}](https://rinpharma.com/)
+
+[![Open Source in Pharma logo](https://opensourceinpharma.com/images/opensourceInPharma_white.png){.endorsement-logo .endorsement-logo-osp}](https://opensourceinpharma.com/)
+:::
 :::
 
 ---
@@ -54,7 +68,7 @@ Join the GitHub discussions here:
 # Location
 
 ::: callout-important
-**Novartis Pavillion**  
+**Novartis Pavilion**  
 Novartis Campus  
 Basel, Switzerland  
 Meeting Room: **TBC**  
@@ -130,7 +144,7 @@ A mix of 50 people from various pharmaceutical companies, CRO and organization s
 - **Shannon Haughton** (GSK)
 - **James Black** (Novartis)
 - **Orla Doyle** (Novartis)
-- **Satish Murphy** (J&J)
+- **Satish Murthy** (J&J)
 - **Phil Bowsher** (Posit)
 - **Mahmoud Hallal** (Roche)
 
