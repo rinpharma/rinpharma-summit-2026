@@ -20,7 +20,7 @@ These relationships and connections have grown into many exciting areas of Open 
 - In **2025**, we hosted a summit at posit::conf(2025) in Atlanta.  
 
 ::: callout-important
-We're thrilled to bring this to **Basel** in **2026** at the Novartis Pavillion! 🎉
+We're thrilled to bring this to **Basel** in **2026** at the Novartis Pavilion! 🎉
 
 :::
 
@@ -68,7 +68,7 @@ Join the GitHub discussions here:
 # Location
 
 ::: callout-important
-**Novartis Pavillion**  
+**Novartis Pavilion**  
 Novartis Campus  
 Basel, Switzerland  
 Meeting Room: **TBC**  

@@ -4,7 +4,7 @@
 
 ## About
 
-The R/Pharma Roundtable Summit 2026 is an in-person event on **Monday, October 5, 2026** at the **Novartis Pavillion, Basel, Switzerland**.
+The R/Pharma Roundtable Summit 2026 is an in-person event on **Monday, October 5, 2026** at the **Novartis Pavilion, Basel, Switzerland**.
 
 ## Contributing
 
