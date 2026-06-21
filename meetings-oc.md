@@ -8,7 +8,7 @@
 - Shannon Haughton (GSK)
 - James Black (Novartis)
 - Orla Doyle (Novartis)
-- Satish Murphy (J&J)
+- Satish Murthy (J&J)
 - Phil Bowsher (Posit)
 - Mahmoud Hallal (Roche)
 
