@@ -109,16 +109,7 @@ A mix of 50 people from various pharmaceutical companies, CRO and organization s
 # Signup
 
 ::: {.callout-note}
-**Register for this free event**
-
-<div class="signup-embed">
-<iframe
-  src="https://luma.com/embed/event/evt-QlcPr0itnDFWIBM/simple"
-  title="R/Pharma Summit 2026 event registration"
-  scrolling="no"
-  allow="fullscreen; payment"
-></iframe>
-</div>
+COMING IN AUGUST
 :::
 
 
