@@ -15,9 +15,9 @@ format:
   <h1 class="hero-title">R/Pharma Summits 2026</h1>
   <p class="hero-subtitle">Two in-person events for the pharma open-source community</p>
   <div class="hero-dates">
-    <span class="hero-date-pill">🇺🇸 September 13 &middot; Houston</span>
+    <a class="hero-date-pill" href="https://conf.posit.co/2026/registration">🇺🇸 September 13 &middot; Houston</a>
     <span class="hero-sep">·</span>
-    <span class="hero-date-pill">🇨🇭 October 5 &middot; Basel</span>
+    <a class="hero-date-pill" href="https://rinpharma.com/contact.html">🇨🇭 October 5 &middot; Basel</a>
   </div>
 </div>
 
@@ -26,11 +26,10 @@ format:
   <div class="event-card">
     <span class="event-tag">US Summit</span>
     <h3>🇺🇸 September 13 · Houston</h3>
-    <p><strong>Hilton Americas-Houston</strong>, Houston, TX</p>
-    <p>The day before posit::conf(2026) workshops begin. A full-day roundtable bringing together 80–100 pharma leaders and practitioners.</p>
+    <p><a href="https://conf.posit.co/2026/"><strong>Hilton Americas-Houston</strong></a>, Houston, TX</p>
+    <p>The day before <a href="https://conf.posit.co/2026/">posit::conf(2026)</a> workshops begin. A full-day roundtable bringing together 80–100 pharma leaders and practitioners.</p>
     <hr>
-    <p><strong>Tickets:</strong> $599 standalone, or as an add-on with a posit::conf(2026) pass.</p>
-    <p style="margin-top:0.5rem;font-size:0.84rem;">To attend without a conference pass, contact <a href="mailto:conf@posit.co">conf@posit.co</a></p>
+    <p style="font-size:0.84rem;">To attend without a conference pass, contact <a href="mailto:conf@posit.co">conf@posit.co</a></p>
     <p style="font-size:0.84rem;">Want to join the advisory board? <a href="https://rinpharma.com/contact.html">Contact us</a></p>
     <a class="card-link" href="https://conf.posit.co/2026/registration">Register →</a>
   </div>
@@ -38,7 +37,7 @@ format:
   <div class="event-card eu">
     <span class="event-tag">EU Summit</span>
     <h3>🇨🇭 October 5 · Basel</h3>
-    <p><strong>Novartis Pavilion</strong>, Novartis Campus, Basel, Switzerland</p>
+    <p><a href="https://www.novartis.com/about/novartis-campus"><strong>Novartis Pavilion</strong></a>, Novartis Campus, Basel, Switzerland</p>
     <p>A smaller, focused event — capacity is limited.</p>
     <hr>
     <p>A limited number of spots open for registration in <strong>August</strong> — we expect them to go quickly.</p>
@@ -58,7 +57,7 @@ format:
 Novartis Campus · Basel, Switzerland  
 Meeting Room: **TBC**
 
-![Novartis Pavillon, Basel — Photo: Alexandre Prevot (CC BY-SA 2.0 via Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg/1920px-Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg){fig-align="center" width="80%"}
+[![Novartis Pavillon, Basel — Photo: Alexandre Prevot (CC BY-SA 2.0 via Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg/1920px-Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg){fig-align="center" width="80%"}](https://rinpharma.com/contact.html)
 :::
 
 ## Agenda
@@ -76,6 +75,29 @@ Meeting Room: **TBC**
 | **4:00–4:45pm**   | *Mahmoud Hallal* (Roche) & Round table chairs | Chairs report back notes, and any planned follow up                                                                           |
 | **4:45–5:00pm**   | *Phil Bowsher* (Posit)                        | Wrap up                                                                                                                       |
 | **6:00–8:00pm**   | Posit Team                                    | Social event — *Posit Sponsored Apero on-site*                                                                                |
+:::
+
+---
+
+# US Summit — September 13, Houston
+
+::: callout-important
+**[Hilton Americas-Houston](https://conf.posit.co/2026/)**  
+Houston, Texas, USA  
+*The day before [posit::conf(2026)](https://conf.posit.co/2026/) workshops begin.*
+
+[![R/Pharma Summit at posit::conf(2026) — Houston, Texas](images/conf2026-rpharma.webp){fig-align="center" width="80%"}](https://conf.posit.co/2026/registration)
+:::
+
+## Registration
+
+::: {.callout-note}
+Register via [posit::conf(2026)](https://conf.posit.co/2026/) or contact [conf@posit.co](mailto:conf@posit.co) to attend without a full conference pass.
+
+👉 [conf.posit.co/2026/registration](https://conf.posit.co/2026/registration)
+
+Want to join the advisory board and help shape the event?  
+👉 [Contact us here](https://rinpharma.com/contact.html)
 :::
 
 ---
@@ -102,11 +124,11 @@ All proposed roundtable topics are collected on GitHub Discussions:
 
 # Background
 
-In 2018 and 2019, **R in Pharma** was in-person at Harvard University, focused on direct interaction between speakers and guests. Those connections have grown into many exciting areas of open source drug development.
+In 2018 and 2019, **[R in Pharma](https://rinpharma.com/)** was in-person at Harvard University, focused on direct interaction between speakers and guests. Those connections have grown into many exciting areas of open source drug development.
 
-- In **2023** we partnered with *Posit*, hosting a session at posit::conf(2023) in Chicago.
-- In **2024**, the session continued at posit::conf(2024) in Seattle.
-- In **2025**, we hosted a summit at posit::conf(2025) in Atlanta.
+- In **2023** we partnered with *[Posit](https://posit.co/)*, hosting a session at [posit::conf(2023)](https://posit.co/conference/2023/) in Chicago.
+- In **2024**, the session continued at [posit::conf(2024)](https://posit.co/conference/2024/) in Seattle.
+- In **2025**, we hosted a summit at [posit::conf(2025)](https://posit.co/conference/2025/) in Atlanta.
 
 ::: callout-important
 In **2026** we're expanding for the first time to **two events** — bringing the R/Pharma Summit to both the US and Europe! 🎉
@@ -149,7 +171,7 @@ A mix of 50 people from pharmaceutical companies, CROs, and organizations suppor
 
 # Organising Committee
 
-The following committee organises the EU Summit. The US Summit is organised by a larger group through the non-profit Open-Source in Pharma, including representatives from several large pharmaceutical companies.
+The following committee organises the EU Summit. The US Summit is organised by a larger group through the non-profit [Open-Source in Pharma](https://opensourceinpharma.com/), including representatives from several large pharmaceutical companies.
 
 - **Michael Mayer** (Posit)
 - **Aga Rasinksa** (Atorus)
