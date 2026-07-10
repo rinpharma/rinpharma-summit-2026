@@ -1,6 +1,5 @@
 ---
-title: "R/Pharma Summit"
-subtitle: "In-person event • Monday, October 5, 2026 • Basel, Switzerland"
+title: ""
 format:
   html:
     toc: true
@@ -10,112 +9,169 @@ format:
     css: styles.css
 ---
 
-# Background
+```{=html}
+<div class="hero-banner">
+  <img src="images/logo-rinpharma.png" class="hero-logo" alt="R/Pharma">
+  <h1 class="hero-title">R/Pharma Summits 2026</h1>
+  <p class="hero-subtitle">Two in-person events for the pharma open-source community</p>
+  <div class="hero-dates">
+    <a class="hero-date-pill" href="https://conf.posit.co/2026/registration">🇺🇸 September 13 &middot; Houston</a>
+    <span class="hero-sep">·</span>
+    <a class="hero-date-pill" href="https://rinpharma.com/contact.html">🇨🇭 October 5 &middot; Basel</a>
+  </div>
+</div>
 
-In 2018 and 2019, **R in Pharma** was in-person at Harvard University and focused on opportunities for direct interaction with speakers and guests.  
-These relationships and connections have grown into many exciting areas of Open Source drug development.  
+<div class="event-cards">
 
-- In **2023** we partnered with *Posit*, hosting an in-person session at posit::conf(2023) in Chicago.  
-- In **2024**, the session continued at posit::conf(2024) in Seattle.  
-- In **2025**, we hosted a summit at posit::conf(2025) in Atlanta.  
+  <div class="event-card">
+    <span class="event-tag">US Summit</span>
+    <h3>🇺🇸 September 13 · Houston</h3>
+    <p><a href="https://conf.posit.co/2026/"><strong>Hilton Americas-Houston</strong></a>, Houston, TX</p>
+    <p>The day before <a href="https://conf.posit.co/2026/">posit::conf(2026)</a> workshops begin. A full-day roundtable bringing together 80–100 pharma leaders and practitioners.</p>
+    <hr>
+    <p style="font-size:0.84rem;">To attend without a conference pass, contact <a href="mailto:conf@posit.co">conf@posit.co</a></p>
+    <p style="font-size:0.84rem;">Want to join the advisory board? <a href="https://rinpharma.com/contact.html">Contact us</a></p>
+    <a class="card-link" href="https://conf.posit.co/2026/registration">Register →</a>
+  </div>
+
+  <div class="event-card eu">
+    <span class="event-tag">EU Summit</span>
+    <h3>🇨🇭 October 5 · Basel</h3>
+    <p><a href="https://www.novartis.com/about/novartis-campus"><strong>Novartis Pavilion</strong></a>, Novartis Campus, Basel, Switzerland</p>
+    <p>A smaller, focused event — capacity is limited.</p>
+    <hr>
+    <p>A limited number of spots open for registration in <strong>August</strong> — we expect them to go quickly.</p>
+    <p style="margin-top:0.5rem;font-size:0.84rem;">To request a spot in advance, please get in touch.</p>
+    <a class="card-link" href="https://rinpharma.com/contact.html">Request a spot →</a>
+  </div>
+
+</div>
+```
+
+---
+
+# EU Summit — October 5, Basel
 
 ::: callout-important
-We're thrilled to bring this to **Basel** in **2026** at the Novartis Pavilion! 🎉
+**Novartis Pavilion**  
+Novartis Campus · Basel, Switzerland  
+Meeting Room: **TBC**
 
+[![Novartis Pavillon, Basel — Photo: Alexandre Prevot (CC BY-SA 2.0 via Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg/1920px-Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg){fig-align="center" width="80%"}](https://rinpharma.com/contact.html)
+:::
+
+## Agenda
+
+::: {.agenda-table}
+| Time              | Chair                                         | Description                                                                                                                   |
+|-------------------|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **9:00am**        | *Satish Murthy* (J&J)                         | Intro to day                                                                                                                  |
+| **9:15–10:00am**  | *Gregory Chen* (MSD)                          | *The Analysis Results Standard Revolution — From Static Tables to Living, Machine-Readable Submissions*                       |
+| **10:00–11:00am** | *James Black* (Novartis)                      | *Validation and QC Reimagined — Trust, Testing, and the AI-Augmented Programmer*                                              |
+| **11:00–11:15am** |                                               | Bio-break                                                                                                                     |
+| **11:15–12:15pm** | *Aga Rasinksa* (Atorus)                       | *AI fireside chat: current status and workflow challenges, operational reality in regulated practice, and the operating model* |
+| **12:15–1:30pm**  |                                               | Lunch 🍴 *Lunch & Learn sessions TBC*                                                                                         |
+| **1:30–4:00pm**   | *Shannon Haughton* (GSK)                      | **Round tables** — Split into 2 × 1hr sessions with short break between. Attendance at each table is flexible.               |
+| **4:00–4:45pm**   | *Mahmoud Hallal* (Roche) & Round table chairs | Chairs report back notes, and any planned follow up                                                                           |
+| **4:45–5:00pm**   | *Phil Bowsher* (Posit)                        | Wrap up                                                                                                                       |
+| **6:00–8:00pm**   | Posit Team                                    | Social event — *Posit Sponsored Apero on-site*                                                                                |
+:::
+
+---
+
+# US Summit — September 13, Houston
+
+::: callout-important
+**[Hilton Americas-Houston](https://conf.posit.co/2026/)**  
+Houston, Texas, USA  
+*The day before [posit::conf(2026)](https://conf.posit.co/2026/) workshops begin.*
+
+[![R/Pharma Summit at posit::conf(2026) — Houston, Texas](images/conf2026-rpharma.webp){fig-align="center" width="80%"}](https://conf.posit.co/2026/registration)
+:::
+
+## Registration
+
+::: {.callout-note}
+Register via [posit::conf(2026)](https://conf.posit.co/2026/) or contact [conf@posit.co](mailto:conf@posit.co) to attend without a full conference pass.
+
+👉 [conf.posit.co/2026/registration](https://conf.posit.co/2026/registration)
+
+Want to join the advisory board and help shape the event?  
+👉 [Contact us here](https://rinpharma.com/contact.html)
+:::
+
+---
+
+# Roundtable Discussions
+
+The roundtable topics feed into **both** summits and are shaped openly by the community. Please get involved before the events.
+
+::: {.callout-important}
+## 💬 Help Shape the Agenda — Vote and Comment Now!
+
+All proposed roundtable topics are collected on GitHub Discussions:
+
+👉 **[github.com/rinpharma/rinpharma-summit-2026/discussions](https://github.com/rinpharma/rinpharma-summit-2026/discussions)**
+
+- **Browse** proposed topics
+- **Upvote** the ones that matter most to you
+- **Comment** to add context or pitch a new topic
+
+*Notes and outcomes from past roundtables are shared at [rinpharma.com/docs/summit/](https://rinpharma.com/docs/summit/).*
+:::
+
+---
+
+# Background
+
+In 2018 and 2019, **[R in Pharma](https://rinpharma.com/)** was in-person at Harvard University, focused on direct interaction between speakers and guests. Those connections have grown into many exciting areas of open source drug development.
+
+- In **2023** we partnered with *[Posit](https://posit.co/)*, hosting a session at [posit::conf(2023)](https://posit.co/conference/2023/) in Chicago.
+- In **2024**, the session continued at [posit::conf(2024)](https://posit.co/conference/2024/) in Seattle.
+- In **2025**, we hosted a summit at [posit::conf(2025)](https://posit.co/conference/2025/) in Atlanta.
+
+::: callout-important
+In **2026** we're expanding for the first time to **two events** — bringing the R/Pharma Summit to both the US and Europe! 🎉
 :::
 
 ---
 
 # Purpose
 
-Over the last five years we’ve seen an explosive growth in the use of R and other open source technologies across drug development, with an increasing focus on **pan-company collaboration**.  
+Over the last five years we've seen explosive growth in the use of R, Python, and other open-source technologies across drug development — with an accelerating focus on **AI**.
 
-The R/Pharma Roundtable Summit provides an **open, collaborative, and inclusive environment** to:
+The R/Pharma Summit provides an **open, collaborative, and inclusive environment** to foster in-person discussions on:
 
-- Share learnings  
-- Understand common themes across our industry  
-- Establish collaboration opportunities  
+- AI in drug development
+- Validated computing environments
+- Scalable infrastructure
+- Regulatory compliance and submissions
 
-The focus is to foster **in-person discussions** about key items such as *reproducibility* and *submissions*, much like the original Harvard events.  
-
-> 🔗 Review the 2023–2025 roundtable summaries here:  
+> 🔗 Review the 2023–2025 roundtable summaries:  
 > [rinpharma.github.io/roundtables](https://rinpharma.github.io/roundtables/)
 
 ---
 
-## Call for Input
-
-::: callout-note
-**You can contribute to the discussion about the final agenda!**  
-Join the GitHub discussions here:  
-👉 [rinpharma-summit-2026 Discussions](https://github.com/rinpharma/rinpharma-summit-2026/discussions)
-:::
-
----
-
-# Location
-
-::: callout-important
-**Novartis Pavilion**  
-Novartis Campus  
-Basel, Switzerland  
-Meeting Room: **TBC**  
-
-![Novartis Pavillon, Basel — Photo: Alexandre Prevot (CC BY-SA 2.0 via Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg/1920px-Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg){fig-align="center" width="80%"}
-
-:::
-
----
-
-# Agenda
-
-::: {.agenda-table}
-| Time          | Chair                  | Description           |
-|---------------|------------------------|-----------------------|
-| **9:00am**    | *Satish Murthy* (J&J) | Intro to day    |
-| **9:15–10:00am**  | *Gregory Chen (MSD)*             | *The Analysis Results Standard Revolution — From Static Tables to Living, Machine-Readable Submissions*  |
-| **10:00–11:00am** | *James Black (Novartis)*             | *Validation and QC Reimagined — Trust, Testing, and the AI-Augmented Programmer*  |
-| **11:00–11:15am** |                   | Bio-break  |
-| **11:15–12:15pm** | *Aga Rasinksa (Atorus)*             | *AI fireside chat: current status and workflow challenges, operational reality in regulated practice, and the operating model*  |
-| **12:15–1:30pm**  |                   | Lunch <br> 🍴 *Lunch & Learn sessions TBC*  |
-| **1:30–4:00pm**   | *Shannon Haughton* (GSK)            | **Round tables** <br> Split into 2 × 1hr sessions with short break between. Attendance at each table is flexible. |
-| **4:00–4:45pm**   | *Mahmoud Hallal* (Roche) & Round table chairs | Chairs report back notes, and any planned follow up  |
-| **4:45–5:00pm**   | *Phil Bowsher* (Posit)             | Wrap up  |
-| **6:00–8:00pm**   | Posit Team             | Social event — *Posit Sponsored Apero on-site*  |
-:::
----
-
-## Roundtables
-
-Round table topics will be confirmed one month out. You can view, propose and vote on the round table topics here: https://github.com/rinpharma/rinpharma-summit-2026/discussions/categories/round-table-idea
-
 # Audience
 
-These round tables are for you if:
+These summits are for you if:
 
-- You are an active contributor to the adoption of data science best practices across drug development  
-- You sponsor data science codebases  
-- You are an informatics professional designing and implementing **GxP-conforming** data science platforms  
-- You are interested in cross-pharma collaboration  
+- You are an active contributor to the adoption of data science best practices across drug development
+- You sponsor data science codebases
+- You are an informatics professional designing and implementing **GxP-conforming** data science platforms
+- You are interested in cross-pharma collaboration
 
 ---
 
 # Round Table Advisory Board
 
-A mix of 50 people from various pharmaceutical companies, CRO and organization supporting the advancement of open source for drug development and clinical reporting.
-
----
-
-# Signup
-
-::: {.callout-note}
-COMING IN AUGUST
-:::
-
+A mix of 50 people from pharmaceutical companies, CROs, and organizations supporting the advancement of open source for drug development and clinical reporting.
 
 ---
 
 # Organising Committee
+
+The following committee organises the EU Summit. The US Summit is organised by a larger group through the non-profit [Open-Source in Pharma](https://opensourceinpharma.com/), including representatives from several large pharmaceutical companies.
 
 - **Michael Mayer** (Posit)
 - **Aga Rasinksa** (Atorus)
@@ -132,12 +188,18 @@ COMING IN AUGUST
 # Endorsement
 
 ::: {.endorsement-block}
-This summit is under the umbrella of **R/Pharma** and **Open Source in Pharma**. The event is hosted by **Novartis** and **Posit**.
+::: {.endorsement-label}
+Endorsed & Supported By
+:::
+
+This summit is under the umbrella of **R/Pharma** and **Open Source in Pharma**. The EU event is hosted by **Novartis** and **Posit**.
 
 ::: {.endorsement-logos}
-[![R/Pharma logo](https://rinpharma.com/images/logo-rinpharma.png){.endorsement-logo}](https://rinpharma.com/)
+[![R/Pharma logo](images/logo-rinpharma.png){.endorsement-logo}](https://rinpharma.com/)
 
-[![Open Source in Pharma logo](https://opensourceinpharma.com/images/opensourceInPharma_white.png){.endorsement-logo .endorsement-logo-osp}](https://opensourceinpharma.com/)
+[![Open Source in Pharma logo](images/logo-osp.png){.endorsement-logo .endorsement-logo-osp}](https://opensourceinpharma.com/)
+
+[![Posit logo](images/logo-posit.png){.endorsement-logo}](https://posit.co/)
 :::
 :::
 
