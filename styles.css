@@ -1,68 +1,225 @@
-/* styles.css — Custom styling for R/Pharma Summit Quarto page */
+/* ============================================================
+   R/Pharma Summits 2026 — Stylesheet
+   ============================================================ */
 
-/* General page style */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* --- Base typography --- */
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  line-height: 1.6;
-  color: #2a2a2a;
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.65;
+  color: #1a202c;
 }
 
-/* Headings */
+/* --- Headings --- */
 h1, h2, h3, h4 {
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
-  letter-spacing: 0.5px;
-  margin-top: 1.2em;
+  letter-spacing: -0.3px;
+  margin-top: 1.4em;
   margin-bottom: 0.6em;
-  color: #1c3f95; /* Deep pharma blue */
+  color: #1c3f95;
 }
 
 h1 {
-  font-size: 2.2rem;
+  font-size: 2rem;
   border-bottom: 3px solid #1c3f95;
   padding-bottom: 0.3rem;
 }
 
 h2 {
-  font-size: 1.8rem;
-  border-left: 6px solid #1c3f95;
-  padding-left: 0.5rem;
+  font-size: 1.55rem;
+  border-left: 5px solid #1c3f95;
+  padding-left: 0.6rem;
 }
 
 h3 {
-  font-size: 1.4rem;
-  color: #333333;
+  font-size: 1.2rem;
+  color: #2d3748;
 }
 
-/* Links */
+/* --- Links --- */
 a {
-  color: #0077b6;
+  color: #1c3f95;
   text-decoration: none;
   font-weight: 500;
 }
 a:hover {
   text-decoration: underline;
-  color: #023e8a;
+  color: #0077b6;
 }
 
-/* Callouts (Quarto built-in) */
+/* --- Hero banner --- */
+.hero-banner {
+  background: linear-gradient(145deg, #071540 0%, #1c3f95 55%, #1a6eb5 100%);
+  color: #fff;
+  text-align: center;
+  padding: 3.5rem 2rem 3rem;
+  margin: -1rem -0.5rem 2.5rem;
+  border-radius: 0 0 20px 20px;
+}
+
+.hero-logo {
+  max-height: 80px;
+  width: auto;
+  margin: 0 auto 1.5rem;
+  filter: brightness(0) invert(1);
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  display: block;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #fff !important;
+  border: none !important;
+  margin: 0 0 0.5rem !important;
+  padding: 0 !important;
+  letter-spacing: -0.5px;
+}
+
+.hero-subtitle {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.72);
+  margin: 0 0 1.75rem !important;
+  font-weight: 400;
+}
+
+.hero-dates {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.hero-date-pill {
+  background: rgba(255, 255, 255, 0.14);
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 50px;
+  padding: 0.45rem 1.3rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 0.01em;
+}
+
+.hero-sep {
+  color: rgba(255, 255, 255, 0.35);
+  font-size: 1.4rem;
+  font-weight: 300;
+}
+
+/* --- Event cards grid --- */
+.event-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 0 0 2.5rem;
+}
+
+@media (max-width: 720px) {
+  .event-cards { grid-template-columns: 1fr; }
+  .hero-title { font-size: 1.8rem; }
+}
+
+.event-card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.5rem 1.75rem;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.06);
+  border-top: 4px solid #1c3f95;
+}
+
+.event-card.eu {
+  border-top-color: #0077b6;
+}
+
+.event-card .event-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #1c3f95;
+  background: #eef2ff;
+  border-radius: 4px;
+  padding: 0.18rem 0.5rem;
+  margin-bottom: 0.65rem;
+}
+
+.event-card.eu .event-tag {
+  color: #0077b6;
+  background: #e0f2fe;
+}
+
+.event-card h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0 0 0.6rem;
+  color: #1a202c;
+  border: none;
+}
+
+.event-card p {
+  font-size: 0.91rem;
+  color: #4a5568;
+  margin: 0.3rem 0;
+  line-height: 1.55;
+}
+
+.event-card hr {
+  border: 0;
+  border-top: 1px solid #e2e8f0;
+  margin: 0.9rem 0;
+  background: none;
+  height: 0;
+}
+
+.event-card .card-link {
+  display: inline-block;
+  margin-top: 0.8rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #1c3f95;
+  padding: 0.35rem 0.9rem;
+  border: 1.5px solid #1c3f95;
+  border-radius: 6px;
+  transition: background 0.18s, color 0.18s;
+}
+
+.event-card .card-link:hover {
+  background: #1c3f95;
+  color: #fff;
+  text-decoration: none;
+}
+
+.event-card.eu .card-link {
+  color: #0077b6;
+  border-color: #0077b6;
+}
+
+.event-card.eu .card-link:hover {
+  background: #0077b6;
+  color: #fff;
+}
+
+/* --- Callouts --- */
 .callout {
   border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  padding: 0.8em 1em;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
 }
-.callout-note {
-  border-left: 6px solid #0077b6;
-}
-.callout-important {
-  border-left: 6px solid #d62828;
-}
+.callout-note  { border-left: 5px solid #0077b6; }
+.callout-important { border-left: 5px solid #d62828; }
 
-/* Agenda table */
+/* --- Agenda table --- */
 table {
   width: 100%;
   margin: 1em 0;
   border-collapse: collapse;
-  font-size: 0.95rem;
+  font-size: 0.93rem;
 }
 table thead {
   background-color: #1c3f95;
@@ -77,16 +234,21 @@ table tbody tr:nth-child(even) {
   background-color: #f7f9fc;
 }
 
-/* Lists */
-ul {
-  margin-top: 0.5em;
-  margin-bottom: 1em;
+.agenda-table table th:nth-child(1),
+.agenda-table table td:nth-child(1) {
+  white-space: nowrap;
+  min-width: 80px;
 }
-ul li {
-  margin-bottom: 0.3em;
-}
+.agenda-table table th:nth-child(2),
+.agenda-table table td:nth-child(2) { width: 25%; }
+.agenda-table table th:nth-child(3),
+.agenda-table table td:nth-child(3) { width: auto; }
 
-/* Horizontal rules */
+/* --- Lists --- */
+ul { margin-top: 0.5em; margin-bottom: 1em; }
+ul li { margin-bottom: 0.3em; }
+
+/* --- Horizontal rules --- */
 hr {
   border: 0;
   height: 2px;
@@ -94,78 +256,69 @@ hr {
   margin: 2em 0;
 }
 
-/* Images */
+/* --- Images --- */
 img {
   display: block;
   margin: 1.5em auto;
   border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
   max-width: 100%;
   height: auto;
 }
 
-/* Agenda table column control */
-.agenda-table table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.agenda-table table th:nth-child(1),
-.agenda-table table td:nth-child(1) {
-  white-space: nowrap;    /* stop wrapping */
-  min-width: 80px;        /* enough room for long times like "11:15–12:30pm" */
-}
-
-.agenda-table table th:nth-child(2),
-.agenda-table table td:nth-child(2) {
-  width: 25%;             /* chair column gets a reasonable share */
-}
-
-.agenda-table table th:nth-child(3),
-.agenda-table table td:nth-child(3) {
-  width: auto;            /* description takes the rest */
-}
-
-/* Signup embed */
-.signup-embed {
-  display: flex;
-  justify-content: center;
-}
-
-.signup-embed iframe {
-  width: min(100%, 600px);
-  height: 980px;
-  border: 1px solid #bfcbda88;
-  border-radius: 4px;
-}
-
-/* Endorsement logos */
+/* --- Endorsement section --- */
 .endorsement-block {
-  margin: 1rem 0 2rem;
+  margin: 2rem 0 2.5rem;
+  padding: 2rem 2.5rem;
+  background: #f4f7fb;
+  border: 1px solid #dce4f0;
+  border-radius: 14px;
   text-align: center;
+}
+
+.endorsement-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #7a8fa6;
+  margin-bottom: 0.5rem;
+}
+
+.endorsement-block > p {
+  font-size: 0.95rem;
+  color: #4a5568;
+  margin: 0 0 0.25rem;
 }
 
 .endorsement-logos {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 1.5rem;
+  gap: 2.5rem;
   flex-wrap: wrap;
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
 
 .endorsement-logo {
   display: block;
-  max-height: 64px;
+  max-height: 48px;
   width: auto;
   height: auto;
   margin: 0;
-  border-radius: 0;
+  border-radius: 8px;
   box-shadow: none;
+  background-color: #ffffff;
+  padding: 0.5rem 1rem;
+  transition: transform 0.2s ease;
+}
+
+.endorsement-logo:hover {
+  transform: translateY(-2px);
 }
 
 .endorsement-logo-osp {
   background-color: #1c3f95;
-  padding: 0.5rem 0.75rem;
+  padding: 0.5rem 0.9rem;
   border-radius: 8px;
 }

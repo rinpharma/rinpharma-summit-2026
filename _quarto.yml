@@ -2,11 +2,18 @@ project:
   type: website
 
 website:
-  title: "R/Pharma Summit 2026"
+  title: "R/Pharma Summits 2026"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
+    right:
+      - text: "Discussions"
+        href: https://github.com/rinpharma/rinpharma-summit-2026/discussions
+      - text: "Past Summaries"
+        href: https://rinpharma.com/docs/summit/
+      - text: "rinpharma.com"
+        href: https://rinpharma.com/
   page-navigation: true
 
 format:
