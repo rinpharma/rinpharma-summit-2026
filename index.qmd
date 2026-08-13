@@ -52,8 +52,8 @@ format:
 
 # EU Summit — October 5, Basel
 
-::: callout-important
-**Novartis Pavilion**  
+::: {.venue-block}
+**[Novartis Pavilion](https://www.novartis.com/about/novartis-campus)**  
 Novartis Campus · Basel, Switzerland  
 Meeting Room: **TBC**
 
@@ -81,12 +81,38 @@ Meeting Room: **TBC**
 
 # US Summit — September 13, Houston
 
-::: callout-important
+::: {.venue-block}
 **[Hilton Americas-Houston](https://conf.posit.co/2026/)**  
 Houston, Texas, USA  
 *The day before [posit::conf(2026)](https://conf.posit.co/2026/) workshops begin.*
 
 [![R/Pharma Summit at posit::conf(2026) — Houston, Texas](images/conf2026-rpharma.webp){fig-align="center" width="80%"}](https://conf.posit.co/2026/registration)
+:::
+
+## Agenda
+
+::: {.draft-notice}
+📋 The agenda is still being finalized — this is a draft outline.
+:::
+
+**Full day: 9:00am – 5:00pm**
+
+::: {.agenda-table}
+| Time | Description |
+|---|---|
+| **9:00 – 11:30am** | Welcome, introductions, and in-depth presentations & discussions on **AI** and **reproducibility** in drug development |
+| **11:30am – 12:30pm** | Lunch presentation & networking |
+| **12:30 – 2:00pm** | **Roundtable discussions** — Session 1 *(topics voted on by community — see below)* |
+| **2:00 – 2:15pm** | Break |
+| **2:15 – 4:00pm** | **Roundtable discussions** — Session 2 |
+| **4:00 – 5:00pm** | Roundtable summaries presented by session chairs |
+:::
+
+::: {.mixer-block}
+🍸 **Evening Mixer — 6:00pm**
+
+Join us for a happy hour at a nearby venue after the summit.  
+*Details to be confirmed closer to the event.*
 :::
 
 ## Registration
