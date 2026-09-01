@@ -21,6 +21,12 @@ format:
   </div>
 </div>
 
+<div class="stats-bar">
+  <div class="stat"><span class="stat-num">2</span><span class="stat-label">Summits</span></div>
+  <div class="stat"><span class="stat-num">80–100</span><span class="stat-label">Leaders per Summit</span></div>
+  <div class="stat"><span class="stat-num">1</span><span class="stat-label">Global Community</span></div>
+</div>
+
 <div class="event-cards">
 
   <div class="event-card">
@@ -49,6 +55,10 @@ format:
 ```
 
 ---
+
+::: {.section-eyebrow}
+SUMMIT DETAILS
+:::
 
 # EU Summit — October 5, Basel
 
@@ -79,6 +89,10 @@ Meeting Room: **TBC**
 
 ---
 
+::: {.section-eyebrow}
+SUMMIT DETAILS
+:::
+
 # US Summit — September 13, Houston
 
 ::: {.venue-block}
@@ -92,27 +106,72 @@ Houston, Texas, USA
 ## Agenda
 
 ::: {.draft-notice}
-📋 The agenda is still being finalized — this is a draft outline.
+📋 The agenda is still being finalized — speakers, exact timing, and the lunch session are subject to change.
 :::
 
 **Full day: 9:00am – 5:00pm**
 
 ::: {.agenda-table}
-| Time | Description |
+| Time | Session |
 |---|---|
-| **9:00 – 11:30am** | Welcome, introductions, and in-depth presentations & discussions on **AI** and **reproducibility** in drug development |
-| **11:30am – 12:30pm** | Lunch presentation & networking |
-| **12:30 – 2:00pm** | **Roundtable discussions** — Session 1 *(topics voted on by community — see below)* |
-| **2:00 – 2:15pm** | Break |
-| **2:15 – 4:00pm** | **Roundtable discussions** — Session 2 |
-| **4:00 – 5:00pm** | Roundtable summaries presented by session chairs |
+| **9:00 – 9:30am** | Welcome, introductions & kickoff |
+| **9:30 – 10:20am** | **The State of AI** — reproducibility, trust, governance, skills, and R code vs. agent workflows |
+| **10:20 – 10:30am** | Break |
+| **10:30 – 11:20am** | **Pharma AI in Practice** — lightning talks from *Ashwini Weber* (Amgen) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
+| **11:30am – 12:30pm** | Lunch presentation & networking *(presenter TBC)* |
+| **12:30 – 1:15pm** | **Open Floor — Live Executive Q&A** *(~30–45 min)* |
+| **1:15 – 2:15pm** | **Roundtable discussions** — Session 1 *(topics voted on by community — see below)* |
+| **2:15 – 2:30pm** | Break |
+| **2:30 – 3:30pm** | **Roundtable discussions** — Session 2 |
+| **3:30 – 4:30pm** | Roundtable summaries presented by session chairs |
+| **4:30 – 5:00pm** | Closing remarks |
+:::
+
+### Featured Speakers
+
+```{=html}
+<div class="speaker-row">
+  <div class="speaker-card">
+    <div class="speaker-avatar">JC</div>
+    <div class="speaker-info">
+      <div class="speaker-name"><a href="https://www.linkedin.com/in/jcheng">Joe Cheng</a></div>
+      <div class="speaker-role">CTO, Posit PBC</div>
+    </div>
+  </div>
+  <div class="speaker-card">
+    <div class="speaker-avatar">AW</div>
+    <div class="speaker-info">
+      <div class="speaker-name"><a href="https://www.linkedin.com/in/ashwini-weber">Ashwini Weber</a></div>
+      <div class="speaker-role">Sr. Biostatistical Programming Manager, Amgen</div>
+    </div>
+  </div>
+  <div class="speaker-card">
+    <div class="speaker-avatar">DR</div>
+    <div class="speaker-info">
+      <div class="speaker-name"><a href="https://www.linkedin.com/in/dilipraghunathan">Dilip Raghunathan</a></div>
+      <div class="speaker-role">Regeneron</div>
+    </div>
+  </div>
+</div>
+```
+
+::: {.mixer-block}
+🎤 **Open Floor — Live Executive Q&A**
+
+Attendees submit written questions throughout the morning; the panel answers them live and unscripted — a fast-paced way to surface the topics the room cares about most.
 :::
 
 ::: {.mixer-block}
 🍸 **Evening Mixer — 6:00pm**
 
-Join us for a happy hour at a nearby venue after the summit.  
-*Details to be confirmed closer to the event.*
+Following a well-received happy hour last year, we're doing it again — join us for drinks at a venue within walking distance of the summit. Exact location will be confirmed closer to the event.
+
+```{=html}
+<div class="host-badge">
+  <img src="images/logo-wu.png" alt="WU Consulting Group">
+  <span>Hosted by <a href="https://wuconsulting.com/">WU Consulting Group</a></span>
+</div>
+```
 :::
 
 ## Registration
@@ -226,6 +285,8 @@ This summit is under the umbrella of **R/Pharma** and **Open Source in Pharma**.
 [![Open Source in Pharma logo](images/logo-osp.png){.endorsement-logo .endorsement-logo-osp}](https://opensourceinpharma.com/)
 
 [![Posit logo](images/logo-posit.png){.endorsement-logo}](https://posit.co/)
+
+[![WU Consulting Group logo](images/logo-wu.png){.endorsement-logo}](https://wuconsulting.com/)
 :::
 :::
 
