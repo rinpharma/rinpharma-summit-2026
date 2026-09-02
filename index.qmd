@@ -42,8 +42,8 @@ format:
     <span class="stat-label">Summits — US &amp; EU</span>
   </div>
   <div class="stat">
-    <span class="stat-num stat-word">By Invitation</span>
-    <span class="stat-label">An intimate gathering of change leaders, Posit engineers &amp; open-source pioneers</span>
+    <span class="stat-num stat-word">4th Annual</span>
+    <span class="stat-label">R/Pharma Summit Series</span>
   </div>
   <div class="stat">
     <span class="stat-num">1</span>
