@@ -61,6 +61,50 @@ a:hover {
   color: #0077b6;
 }
 
+/* --- Navbar --- */
+.navbar {
+  background: #ffffff !important;
+  border-bottom: 1px solid #e9edf5;
+  box-shadow: 0 2px 16px rgba(28, 63, 149, 0.06);
+  position: relative;
+}
+
+.navbar::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -3px;
+  height: 3px;
+  background: linear-gradient(to right, #1c3f95, #0077b6, #06b6d4);
+}
+
+.navbar-brand {
+  font-weight: 800 !important;
+  color: #1c3f95 !important;
+  letter-spacing: -0.3px;
+  font-size: 1.08rem;
+}
+
+.navbar-logo {
+  max-height: 30px !important;
+}
+
+.navbar .navbar-nav .nav-link {
+  font-weight: 600 !important;
+  font-size: 0.86rem;
+  color: #4a5568 !important;
+  letter-spacing: 0.02em;
+  padding: 0.5rem 0.85rem !important;
+  border-radius: 7px;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #1c3f95 !important;
+  background: #eef2ff;
+}
+
 /* --- Hero banner --- */
 @keyframes heroFadeUp {
   from { opacity: 0; transform: translateY(14px); }
@@ -168,11 +212,11 @@ a:hover {
 .marquee-track {
   display: inline-flex;
   align-items: center;
-  animation: marqueeScroll 32s linear infinite;
-  color: rgba(255, 255, 255, 0.85);
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.09em;
+  animation: marqueeScroll 46s linear infinite;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
 }
 
 .marquee-track .dot {
@@ -255,35 +299,49 @@ a:hover {
 .tag-panel      { background: #fdf2f8; color: #be185d; }
 .tag-roundtable { background: #ecfeff; color: #0e7490; }
 
-/* --- Impact banner --- */
-.impact-banner {
-  max-width: 780px;
-  margin: -1.5rem auto 2.5rem;
+/* --- Stats bar --- */
+.stats-bar {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2.5rem;
+  flex-wrap: wrap;
   background: #fff;
   border: 1px solid #e2e8f0;
   border-radius: 16px;
   box-shadow: 0 10px 30px rgba(28, 63, 149, 0.08);
-  padding: 1.85rem 2.75rem;
-  text-align: center;
+  padding: 1.75rem 2rem;
+  margin: 0 1.25rem 2.5rem;
   position: relative;
   z-index: 2;
 }
 
-.impact-label {
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: #0077b6;
-  margin: 0 0 0.65rem;
+.stat {
+  text-align: center;
+  max-width: 240px;
 }
 
-.impact-statement {
-  font-size: 1.12rem;
-  font-weight: 600;
-  color: #1a202c;
-  line-height: 1.55;
-  margin: 0;
+.stat-num {
+  display: block;
+  font-size: 1.7rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, #1c3f95, #0077b6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.stat-num.stat-word {
+  font-size: 1.15rem;
+  letter-spacing: -0.2px;
+}
+
+.stat-label {
+  display: block;
+  font-size: 0.78rem;
+  color: #64748a;
+  margin-top: 0.3rem;
+  line-height: 1.4;
 }
 
 /* --- Event cards grid --- */
