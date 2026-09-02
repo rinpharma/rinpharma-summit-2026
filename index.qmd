@@ -246,7 +246,7 @@ The topics below were finalized from the community's proposals in [GitHub Discus
   <div class="topic-card">
     <span class="tag tag-ai">AI OPERATIONS</span>
     <h4>AI in Practice: Automation, Cost &amp; Skills</h4>
-    <p>Beyond governance, teams are wrestling with practical questions: when deterministic automation beats AI-driven automation, how to benchmark agents and manage token cost as a proxy for spend (including where smaller, local, or open-weight models hold up just fine), and what IDE setups and upskilling paths actually work in a GxP-related context. This roundtable is about the operational side of AI adoption — cost, tooling, and training — comparing what's genuinely working today. Expect a practical toolkit, not just theory.</p>
+    <p>Beyond governance, teams are wrestling with practical questions: when deterministic automation beats AI-driven automation, how to benchmark agents and manage token cost as a proxy for spend (including where smaller, local, or open-weight models hold up just fine), and what IDE setups and upskilling paths actually work in a GxP-related context. This roundtable is about the operational side of AI adoption — cost, tooling, and training — comparing what's genuinely working today. We're glad to confirm <a href="https://trustedminiagents.dev/">Will L (trustedminiagents.dev)</a> is joining to help ground the conversation in evaluating and benchmarking agent behavior in practice.</p>
   </div>
 
   <div class="topic-card env">
@@ -258,7 +258,7 @@ The topics below were finalized from the community's proposals in [GitHub Discus
   <div class="topic-card pharma">
     <span class="tag tag-pharma">REGULATORY</span>
     <h4>Open Source in Regulatory Submissions &amp; Validation</h4>
-    <p>Are the industry's long-standing concerns about using open source like R in regulatory filings actually solved heading into 2026 — including where hybrid submissions and ADRG/ADaM inclusion of R code stand today? Drawing on work from CAMIS, pharmaverse, and the R Consortium's submissions working group, this session builds a shared view of agency appetite, reviewer familiarity with R, and confidence in R-based outputs. Expect input from people who have navigated real submissions.</p>
+    <p>Are the industry's long-standing concerns about using open source like R in regulatory filings actually solved heading into 2026 — including where hybrid submissions and ADRG/ADaM inclusion of R code stand today? Drawing on work from CAMIS, pharmaverse, and the R Consortium's submissions working group, this session builds a shared view of agency appetite, reviewer familiarity with R, and confidence in R-based outputs. A dedicated working-group update will also cover the latest on hybrid submissions, SCE considerations, and QC checking of R AI-augmented outputs, so expect input from people who have navigated real submissions.</p>
   </div>
 
   <div class="topic-card standards">
