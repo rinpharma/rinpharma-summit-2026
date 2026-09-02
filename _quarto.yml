@@ -4,6 +4,10 @@ project:
 website:
   title: "R/Pharma Summits 2026"
   navbar:
+    logo: images/logo-rinpharma.png
+    logo-alt: "R/Pharma"
+    logo-href: https://rinpharma.com/
+    pinned: true
     left:
       - text: "Home"
         href: index.qmd
