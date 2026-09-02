@@ -36,9 +36,19 @@ format:
   </div>
 </div>
 
-<div class="impact-banner reveal">
-  <p class="impact-label">Why R/Pharma Matters</p>
-  <p class="impact-statement">Open-source collaboration across the industry reduces duplicative validation and submission overhead — and helps new therapies reach patients faster. One global community, working in the open, across the US &amp; EU.</p>
+<div class="stats-bar reveal">
+  <div class="stat">
+    <span class="stat-num">2</span>
+    <span class="stat-label">Summits — US &amp; EU</span>
+  </div>
+  <div class="stat">
+    <span class="stat-num stat-word">By Invitation</span>
+    <span class="stat-label">An intimate gathering of change leaders, Posit engineers &amp; open-source pioneers</span>
+  </div>
+  <div class="stat">
+    <span class="stat-num">1</span>
+    <span class="stat-label">Global Community</span>
+  </div>
 </div>
 
 <div class="event-cards reveal">
