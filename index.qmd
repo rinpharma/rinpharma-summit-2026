@@ -43,7 +43,7 @@ format:
   </div>
   <div class="stat">
     <span class="stat-num stat-word">4th Annual</span>
-    <span class="stat-label">R/Pharma Summit Series</span>
+    <span class="stat-label">R/Pharma Summit Series — an intimate gathering of change leaders, Posit engineers &amp; open-source pioneers</span>
   </div>
   <div class="stat">
     <span class="stat-num">1</span>
