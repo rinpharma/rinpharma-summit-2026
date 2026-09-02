@@ -21,6 +21,21 @@ format:
   </div>
 </div>
 
+<div class="marquee">
+  <div class="marquee-track">
+    <span>OPEN SOURCE IN PHARMA</span><span class="dot">•</span>
+    <span>AI &amp; REPRODUCIBILITY</span><span class="dot">•</span>
+    <span>HOUSTON</span><span class="dot">•</span>
+    <span>BASEL</span><span class="dot">•</span>
+    <span>ROUNDTABLE DISCUSSIONS</span><span class="dot">•</span>
+    <span>OPEN SOURCE IN PHARMA</span><span class="dot">•</span>
+    <span>AI &amp; REPRODUCIBILITY</span><span class="dot">•</span>
+    <span>HOUSTON</span><span class="dot">•</span>
+    <span>BASEL</span><span class="dot">•</span>
+    <span>ROUNDTABLE DISCUSSIONS</span><span class="dot">•</span>
+  </div>
+</div>
+
 <div class="impact-banner reveal">
   <p class="impact-label">Why R/Pharma Matters</p>
   <p class="impact-statement">Open-source collaboration across the industry reduces duplicative validation and submission overhead — and helps new therapies reach patients faster. One global community, working in the open, across the US &amp; EU.</p>
@@ -51,6 +66,24 @@ format:
   </div>
 
 </div>
+
+<div class="why-grid reveal">
+  <div class="why-tile">
+    <div class="why-kicker">LEARN</div>
+    <h4>AI, Validation &amp; Regulatory Readiness</h4>
+    <p>Deep-dive sessions on reproducibility, governance, and submission-ready open-source workflows.</p>
+  </div>
+  <div class="why-tile">
+    <div class="why-kicker">NETWORK</div>
+    <h4>Connect With Pharma Leaders</h4>
+    <p>Meet practitioners and decision-makers across CROs and top-tier pharma companies at each summit.</p>
+  </div>
+  <div class="why-tile">
+    <div class="why-kicker">SHAPE THE AGENDA</div>
+    <h4>Vote on Roundtable Topics</h4>
+    <p>Every roundtable is community-driven — browse, upvote, and pitch topics before the events.</p>
+  </div>
+</div>
 ```
 
 ---
@@ -75,12 +108,12 @@ Meeting Room: **TBC**
 | Time              | Chair                                         | Description                                                                                                                   |
 |-------------------|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **9:00am**        | *Satish Murthy* (J&J)                         | Intro to day                                                                                                                  |
-| **9:15–10:00am**  | *Gregory Chen* (MSD)                          | *The Analysis Results Standard Revolution — From Static Tables to Living, Machine-Readable Submissions*                       |
-| **10:00–11:00am** | *James Black* (Novartis)                      | *Validation and QC Reimagined — Trust, Testing, and the AI-Augmented Programmer*                                              |
+| **9:15–10:00am**  | *Gregory Chen* (MSD)                          | <span class="tag tag-pharma">SUBMISSIONS</span> *The Analysis Results Standard Revolution — From Static Tables to Living, Machine-Readable Submissions*                       |
+| **10:00–11:00am** | *James Black* (Novartis)                      | <span class="tag tag-ai">AI</span> *Validation and QC Reimagined — Trust, Testing, and the AI-Augmented Programmer*                                              |
 | **11:00–11:15am** |                                               | Bio-break                                                                                                                     |
-| **11:15–12:15pm** | *Aga Rasinksa* (Atorus)                       | *AI fireside chat: current status and workflow challenges, operational reality in regulated practice, and the operating model* |
+| **11:15–12:15pm** | *Aga Rasinksa* (Atorus)                       | <span class="tag tag-ai">AI</span> *AI fireside chat: current status and workflow challenges, operational reality in regulated practice, and the operating model* |
 | **12:15–1:30pm**  |                                               | Lunch 🍴 *Lunch & Learn sessions TBC*                                                                                         |
-| **1:30–4:00pm**   | *Shannon Haughton* (GSK)                      | **Round tables** — Split into 2 × 1hr sessions with short break between. Attendance at each table is flexible.               |
+| **1:30–4:00pm**   | *Shannon Haughton* (GSK)                      | <span class="tag tag-roundtable">ROUNDTABLE</span> **Round tables** — Split into 2 × 1hr sessions with short break between. Attendance at each table is flexible.               |
 | **4:00–4:45pm**   | *Mahmoud Hallal* (Roche) & Round table chairs | Chairs report back notes, and any planned follow up                                                                           |
 | **4:45–5:00pm**   | *Phil Bowsher* (Posit)                        | Wrap up                                                                                                                       |
 | **6:00–8:00pm**   | Posit Team                                    | Social event — *Posit Sponsored Apero on-site*                                                                                |
@@ -114,15 +147,15 @@ Houston, Texas, USA
 | Time | Session |
 |---|---|
 | **9:00 – 9:30am** | Welcome, introductions & kickoff — *Phil Bowsher* (Posit) & *Harvey Lieberman* (Novartis) |
-| **9:30 – 10:20am** | **The State of AI** — *Joe Cheng* (CTO, Posit) on reproducibility, trust, governance, skills, and R code vs. agent workflows |
+| **9:30 – 10:20am** | <span class="tag tag-ai">AI</span> **The State of AI** — *Joe Cheng* (CTO, Posit) on reproducibility, trust, governance, skills, and R code vs. agent workflows |
 | **10:20 – 10:30am** | Break |
-| **10:30 – 11:20am** | **Pharma AI in Practice** — lightning talks from *Ashwini Weber* (Amgen) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
+| **10:30 – 11:20am** | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — lightning talks from *Ashwini Weber* (Amgen) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
 | **11:30am – 12:30pm** | Lunch presentation & networking *(presenter TBC)* |
 | **12:30 – 12:40pm** | Break |
-| **12:40 – 1:25pm** | **Open Floor — Live Executive Q&A** *(~30–45 min)* |
-| **1:25 – 2:25pm** | **Roundtable discussions** — Session 1 *(topics voted on by community — see below)* |
+| **12:40 – 1:25pm** | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** *(~30–45 min)* |
+| **1:25 – 2:25pm** | <span class="tag tag-roundtable">ROUNDTABLE</span> **Roundtable discussions** — Session 1 *(topics voted on by community — see below)* |
 | **2:25 – 2:40pm** | Break |
-| **2:40 – 3:40pm** | **Roundtable discussions** — Session 2 |
+| **2:40 – 3:40pm** | <span class="tag tag-roundtable">ROUNDTABLE</span> **Roundtable discussions** — Session 2 |
 | **3:40 – 4:40pm** | Roundtable summaries presented by session chairs |
 | **4:40 – 5:00pm** | Closing remarks |
 :::
@@ -267,6 +300,35 @@ The following committee organises the EU Summit. The US Summit is organised by a
 - **Satish Murthy** (J&J)
 - **Phil Bowsher** (Posit)
 - **Mahmoud Hallal** (Roche)
+
+---
+
+# FAQ
+
+```{=html}
+<div class="faq-list reveal">
+  <details class="faq-item">
+    <summary>What's the difference between the US and EU Summits?</summary>
+    <div class="faq-answer">The US Summit (September 13, Houston) runs the day before posit::conf(2026) and brings together roughly 100 pharma leaders and practitioners. The EU Summit (October 5, Basel) is a smaller, invite-style event at the Novartis Pavilion — around 60 attendees, with limited capacity opening for registration in August.</div>
+  </details>
+  <details class="faq-item">
+    <summary>Who should attend?</summary>
+    <div class="faq-answer">Anyone actively contributing to open-source adoption in drug development: informatics and biostatistics leaders, GxP platform owners, data science sponsors, and anyone interested in cross-pharma collaboration.</div>
+  </details>
+  <details class="faq-item">
+    <summary>How do I help shape the roundtable agenda?</summary>
+    <div class="faq-answer">All roundtable topics — for both summits — are proposed, discussed, and voted on in <a href="https://github.com/rinpharma/rinpharma-summit-2026/discussions">GitHub Discussions</a>. Browse existing topics, upvote the ones you care about, or pitch a new one.</div>
+  </details>
+  <details class="faq-item">
+    <summary>Can I attend both summits?</summary>
+    <div class="faq-answer">Yes — the US and EU Summits are independent events with separate registration. Many organizing committee members and community contributors attend both.</div>
+  </details>
+  <details class="faq-item">
+    <summary>What does it cost to attend?</summary>
+    <div class="faq-answer">The US Summit is available as a standalone ticket or as an add-on with a posit::conf(2026) pass — see the registration link above. The EU Summit is a smaller, invite-style event; reach out via the contact link to request a spot.</div>
+  </details>
+</div>
+```
 
 ---
 
