@@ -7,7 +7,6 @@ website:
     logo: images/logo-rinpharma.png
     logo-alt: "R/Pharma"
     logo-href: https://rinpharma.com/
-    pinned: true
     left:
       - text: "Home"
         href: index.qmd
