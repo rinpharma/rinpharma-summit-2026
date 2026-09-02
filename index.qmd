@@ -154,20 +154,20 @@ Houston, Texas, USA
 **Full day: 9:00am – 5:00pm**
 
 ::: {.agenda-table .reveal}
-| Time | Session |
-|---|---|
-| **9:00 – 9:30am** | Welcome, introductions & kickoff — *Phil Bowsher* (Posit) & *Harvey Lieberman* (Novartis) |
-| **9:30 – 10:20am** | <span class="tag tag-ai">AI</span> **The State of AI** — *Joe Cheng* (CTO, Posit) on reproducibility, trust, governance, skills, and R code vs. agent workflows |
-| **10:20 – 10:30am** | Break |
-| **10:30 – 11:20am** | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — lightning talks from *Ashwini Weber* (Amgen) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
-| **11:30am – 12:30pm** | Lunch presentation & networking *(presenter TBC)* |
-| **12:30 – 12:40pm** | Break |
-| **12:40 – 1:25pm** | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** *(~30–45 min)* |
-| **1:25 – 2:25pm** | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 1 *(see the finalized topics below)* |
-| **2:25 – 2:40pm** | Break |
-| **2:40 – 3:40pm** | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 2 |
-| **3:40 – 4:40pm** | Roundtable summaries presented by session chairs |
-| **4:40 – 5:00pm** | Closing remarks |
+| Time | Chair | Description |
+|---|---|---|
+| **9:00 – 9:30am** | *Phil Bowsher* (Posit) & *Harvey Lieberman* (Novartis) | Welcome, introductions & kickoff |
+| **9:30 – 10:20am** | *Joe Cheng* (CTO, Posit) | <span class="tag tag-ai">AI</span> **The State of AI** — reproducibility, trust, governance, skills, and R code vs. agent workflows |
+| **10:20 – 10:30am** | | Break |
+| **10:30 – 11:20am** | *Ashwini Weber* (Amgen) & *Dilip Raghunathan* (Regeneron) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — lightning talks followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
+| **11:30am – 12:30pm** | *Presenter TBC* | Lunch presentation & networking |
+| **12:30 – 12:40pm** | | Break |
+| **12:40 – 1:25pm** | | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** *(~30–45 min)* |
+| **1:25 – 2:25pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 1 *(see the finalized topics below)* |
+| **2:25 – 2:40pm** | | Break |
+| **2:40 – 3:40pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 2 |
+| **3:40 – 4:40pm** | Round table chairs | Roundtable summaries presented by session chairs |
+| **4:40 – 5:00pm** | | Closing remarks |
 :::
 
 ### Featured Speakers
