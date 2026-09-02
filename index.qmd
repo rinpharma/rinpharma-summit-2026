@@ -21,13 +21,25 @@ format:
   </div>
 </div>
 
-<div class="stats-bar">
-  <div class="stat"><span class="stat-num">2</span><span class="stat-label">Summits</span></div>
-  <div class="stat"><span class="stat-num">80–100</span><span class="stat-label">Leaders per Summit</span></div>
-  <div class="stat"><span class="stat-num">1</span><span class="stat-label">Global Community</span></div>
+<div class="value-props reveal">
+  <div class="value-prop">
+    <div class="value-icon">💰</div>
+    <div class="value-title">Lower Costs</div>
+    <div class="value-text">Shared open-source tooling cuts duplicative validation & submission spend</div>
+  </div>
+  <div class="value-prop">
+    <div class="value-icon">⚡</div>
+    <div class="value-title">Faster to Market</div>
+    <div class="value-text">Reusable, community-built infrastructure accelerates drug development timelines</div>
+  </div>
+  <div class="value-prop">
+    <div class="value-icon">🌍</div>
+    <div class="value-title">1 Global Community</div>
+    <div class="value-text">Uniting pharma leaders across the US &amp; EU around open source</div>
+  </div>
 </div>
 
-<div class="event-cards">
+<div class="event-cards reveal">
 
   <div class="event-card">
     <span class="event-tag">US Summit</span>
@@ -62,7 +74,7 @@ SUMMIT DETAILS
 
 # EU Summit — October 5, Basel
 
-::: {.venue-block}
+::: {.venue-block .reveal}
 **[Novartis Pavilion](https://www.novartis.com/about/novartis-campus)**  
 Novartis Campus · Basel, Switzerland  
 Meeting Room: **TBC**
@@ -72,7 +84,7 @@ Meeting Room: **TBC**
 
 ## Agenda
 
-::: {.agenda-table}
+::: {.agenda-table .reveal}
 | Time              | Chair                                         | Description                                                                                                                   |
 |-------------------|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **9:00am**        | *Satish Murthy* (J&J)                         | Intro to day                                                                                                                  |
@@ -95,7 +107,7 @@ SUMMIT DETAILS
 
 # US Summit — September 13, Houston
 
-::: {.venue-block}
+::: {.venue-block .reveal}
 **[Hilton Americas-Houston](https://conf.posit.co/2026/)**  
 Houston, Texas, USA  
 *The day before [posit::conf(2026)](https://conf.posit.co/2026/) workshops begin.*
@@ -111,26 +123,27 @@ Houston, Texas, USA
 
 **Full day: 9:00am – 5:00pm**
 
-::: {.agenda-table}
+::: {.agenda-table .reveal}
 | Time | Session |
 |---|---|
-| **9:00 – 9:30am** | Welcome, introductions & kickoff |
-| **9:30 – 10:20am** | **The State of AI** — reproducibility, trust, governance, skills, and R code vs. agent workflows |
+| **9:00 – 9:30am** | Welcome, introductions & kickoff — *Phil Bowsher* (Posit) & *Harvey Lieberman* (Novartis) |
+| **9:30 – 10:20am** | **The State of AI** — *Joe Cheng* (CTO, Posit) on reproducibility, trust, governance, skills, and R code vs. agent workflows |
 | **10:20 – 10:30am** | Break |
 | **10:30 – 11:20am** | **Pharma AI in Practice** — lightning talks from *Ashwini Weber* (Amgen) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
 | **11:30am – 12:30pm** | Lunch presentation & networking *(presenter TBC)* |
-| **12:30 – 1:15pm** | **Open Floor — Live Executive Q&A** *(~30–45 min)* |
-| **1:15 – 2:15pm** | **Roundtable discussions** — Session 1 *(topics voted on by community — see below)* |
-| **2:15 – 2:30pm** | Break |
-| **2:30 – 3:30pm** | **Roundtable discussions** — Session 2 |
-| **3:30 – 4:30pm** | Roundtable summaries presented by session chairs |
-| **4:30 – 5:00pm** | Closing remarks |
+| **12:30 – 12:40pm** | Break |
+| **12:40 – 1:25pm** | **Open Floor — Live Executive Q&A** *(~30–45 min)* |
+| **1:25 – 2:25pm** | **Roundtable discussions** — Session 1 *(topics voted on by community — see below)* |
+| **2:25 – 2:40pm** | Break |
+| **2:40 – 3:40pm** | **Roundtable discussions** — Session 2 |
+| **3:40 – 4:40pm** | Roundtable summaries presented by session chairs |
+| **4:40 – 5:00pm** | Closing remarks |
 :::
 
 ### Featured Speakers
 
 ```{=html}
-<div class="speaker-row">
+<div class="speaker-row reveal">
   <div class="speaker-card">
     <div class="speaker-avatar">JC</div>
     <div class="speaker-info">
@@ -155,13 +168,13 @@ Houston, Texas, USA
 </div>
 ```
 
-::: {.mixer-block}
+::: {.mixer-block .reveal}
 🎤 **Open Floor — Live Executive Q&A**
 
 Attendees submit written questions throughout the morning; the panel answers them live and unscripted — a fast-paced way to surface the topics the room cares about most.
 :::
 
-::: {.mixer-block}
+::: {.mixer-block .reveal}
 🍸 **Evening Mixer — 6:00pm**
 
 Following a well-received happy hour last year, we're doing it again — join us for drinks at a venue within walking distance of the summit. Exact location will be confirmed closer to the event.
@@ -272,7 +285,7 @@ The following committee organises the EU Summit. The US Summit is organised by a
 
 # Endorsement
 
-::: {.endorsement-block}
+::: {.endorsement-block .reveal}
 ::: {.endorsement-label}
 Endorsed & Supported By
 :::
@@ -280,13 +293,13 @@ Endorsed & Supported By
 This summit is under the umbrella of **R/Pharma** and **Open Source in Pharma**. The EU event is hosted by **Novartis** and **Posit**.
 
 ::: {.endorsement-logos}
-[![R/Pharma logo](images/logo-rinpharma.png){.endorsement-logo}](https://rinpharma.com/)
+[![R/Pharma](images/logo-rinpharma.png){.endorsement-logo}](https://rinpharma.com/)
 
-[![Open Source in Pharma logo](images/logo-osp.png){.endorsement-logo .endorsement-logo-osp}](https://opensourceinpharma.com/)
+[![Open Source in Pharma](images/logo-osp.png){.endorsement-logo .endorsement-logo-osp}](https://opensourceinpharma.com/)
 
-[![Posit logo](images/logo-posit.png){.endorsement-logo}](https://posit.co/)
+[![Posit](images/logo-posit.png){.endorsement-logo}](https://posit.co/)
 
-[![WU Consulting Group logo](images/logo-wu.png){.endorsement-logo}](https://wuconsulting.com/)
+[![WU Consulting Group](images/logo-wu.png){.endorsement-logo}](https://wuconsulting.com/)
 :::
 :::
 
