@@ -21,22 +21,9 @@ format:
   </div>
 </div>
 
-<div class="value-props reveal">
-  <div class="value-prop">
-    <div class="value-icon">💰</div>
-    <div class="value-title">Lower Costs</div>
-    <div class="value-text">Shared open-source tooling cuts duplicative validation & submission spend</div>
-  </div>
-  <div class="value-prop">
-    <div class="value-icon">⚡</div>
-    <div class="value-title">Faster to Market</div>
-    <div class="value-text">Reusable, community-built infrastructure accelerates drug development timelines</div>
-  </div>
-  <div class="value-prop">
-    <div class="value-icon">🌍</div>
-    <div class="value-title">1 Global Community</div>
-    <div class="value-text">Uniting pharma leaders across the US &amp; EU around open source</div>
-  </div>
+<div class="impact-banner reveal">
+  <p class="impact-label">Why R/Pharma Matters</p>
+  <p class="impact-statement">Open-source collaboration across the industry reduces duplicative validation and submission overhead — and helps new therapies reach patients faster. One global community, working in the open, across the US &amp; EU.</p>
 </div>
 
 <div class="event-cards reveal">
@@ -145,7 +132,7 @@ Houston, Texas, USA
 ```{=html}
 <div class="speaker-row reveal">
   <div class="speaker-card">
-    <div class="speaker-avatar">JC</div>
+    <img src="images/speaker-joe.jpg" alt="Joe Cheng" class="speaker-photo">
     <div class="speaker-info">
       <div class="speaker-name"><a href="https://www.linkedin.com/in/jcheng">Joe Cheng</a></div>
       <div class="speaker-role">CTO, Posit PBC</div>
@@ -159,7 +146,7 @@ Houston, Texas, USA
     </div>
   </div>
   <div class="speaker-card">
-    <div class="speaker-avatar">DR</div>
+    <img src="images/speaker-dilip.jpg" alt="Dilip Raghunathan" class="speaker-photo">
     <div class="speaker-info">
       <div class="speaker-name"><a href="https://www.linkedin.com/in/dilipraghunathan">Dilip Raghunathan</a></div>
       <div class="speaker-role">Regeneron</div>
