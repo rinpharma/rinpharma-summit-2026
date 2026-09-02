@@ -48,5 +48,21 @@ format:
             });
           }, { threshold: 0.12 });
           revealEls.forEach(function (el) { observer.observe(el); });
+
+          function daysUntil(dateStr) {
+            var target = new Date(dateStr);
+            var now = new Date();
+            return Math.ceil((target - now) / (1000 * 60 * 60 * 24));
+          }
+          var usEl = document.getElementById("countdown-us");
+          var euEl = document.getElementById("countdown-eu");
+          if (usEl) {
+            var dUS = daysUntil("2026-09-13T09:00:00-05:00");
+            usEl.textContent = dUS > 0 ? ("Houston in " + dUS + " days") : "Houston — happening now!";
+          }
+          if (euEl) {
+            var dEU = daysUntil("2026-10-05T09:00:00+02:00");
+            euEl.textContent = dEU > 0 ? ("Basel in " + dEU + " days") : "Basel — happening now!";
+          }
         });
         </script>
