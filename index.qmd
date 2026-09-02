@@ -313,7 +313,7 @@ OUR STORY
 
 # Background
 
-In 2018 and 2019, **[R in Pharma](https://rinpharma.com/)** was in-person at Harvard University, focused on direct interaction between speakers and guests. Those connections have grown into many exciting areas of open source drug development — and into the summit series shown below.
+In 2018 and 2019, **[R in Pharma](https://rinpharma.com/)** was in-person at Harvard University, focused on direct interaction between speakers and guests. Those connections have grown into many exciting areas of open source drug development — and into the summit series shown below. R/Pharma's virtual programming, which grew out of that same 2020–2022 shift, has since become its own large annual event drawing 2,000–3,000 attendees a year — a great community in its own right, but a different experience from the smaller, face-to-face summits below.
 
 ```{=html}
 <div class="history-timeline reveal">
@@ -321,6 +321,11 @@ In 2018 and 2019, **[R in Pharma](https://rinpharma.com/)** was in-person at Har
     <div class="history-year">2018–19</div>
     <div class="history-place">Harvard University</div>
     <div class="history-desc">In-person origins</div>
+  </div>
+  <div class="history-item">
+    <div class="history-year">2020–22</div>
+    <div class="history-place">Virtual</div>
+    <div class="history-desc">Continued through the pandemic</div>
   </div>
   <div class="history-item">
     <div class="history-year">2023</div>
