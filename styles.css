@@ -156,51 +156,35 @@ a:hover {
   font-weight: 300;
 }
 
-/* --- Value props bar --- */
-.value-props {
-  display: flex;
-  justify-content: center;
-  gap: 1.75rem;
-  flex-wrap: wrap;
+/* --- Impact banner --- */
+.impact-banner {
+  max-width: 780px;
+  margin: -1.5rem auto 2.5rem;
   background: #fff;
   border: 1px solid #e2e8f0;
   border-radius: 16px;
   box-shadow: 0 10px 30px rgba(28, 63, 149, 0.08);
-  padding: 1.6rem 2rem;
-  margin: -1.5rem 1.25rem 2.5rem;
+  padding: 1.85rem 2.75rem;
+  text-align: center;
   position: relative;
   z-index: 2;
 }
 
-.value-prop {
-  flex: 1 1 220px;
-  max-width: 280px;
-  text-align: center;
+.impact-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #0077b6;
+  margin: 0 0 0.65rem;
 }
 
-.value-icon {
-  width: 46px;
-  height: 46px;
-  margin: 0 auto 0.55rem;
-  border-radius: 50%;
-  background: linear-gradient(135deg, #eef2ff, #e0f2fe);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.35rem;
-}
-
-.value-title {
-  font-weight: 800;
-  font-size: 1rem;
-  color: #1c3f95;
-  margin-bottom: 0.3rem;
-}
-
-.value-text {
-  font-size: 0.82rem;
-  color: #64748a;
-  line-height: 1.5;
+.impact-statement {
+  font-size: 1.12rem;
+  font-weight: 600;
+  color: #1a202c;
+  line-height: 1.55;
+  margin: 0;
 }
 
 /* --- Event cards grid --- */
@@ -479,6 +463,18 @@ table tbody tr:hover {
   font-weight: 700;
   font-size: 0.82rem;
   letter-spacing: 0.02em;
+}
+
+.speaker-photo {
+  display: block;
+  width: 44px;
+  height: 44px;
+  min-width: 44px;
+  max-width: 44px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0;
+  box-shadow: none;
 }
 
 .speaker-name {
