@@ -163,9 +163,9 @@ Houston, Texas, USA
 | **11:30am – 12:30pm** | Lunch presentation & networking *(presenter TBC)* |
 | **12:30 – 12:40pm** | Break |
 | **12:40 – 1:25pm** | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** *(~30–45 min)* |
-| **1:25 – 2:25pm** | <span class="tag tag-roundtable">ROUNDTABLE</span> **Roundtable discussions** — Session 1 *(topics voted on by community — see below)* |
+| **1:25 – 2:25pm** | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 1 *(see the finalized topics below)* |
 | **2:25 – 2:40pm** | Break |
-| **2:40 – 3:40pm** | <span class="tag tag-roundtable">ROUNDTABLE</span> **Roundtable discussions** — Session 2 |
+| **2:40 – 3:40pm** | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 2 |
 | **3:40 – 4:40pm** | Roundtable summaries presented by session chairs |
 | **4:40 – 5:00pm** | Closing remarks |
 :::
@@ -227,6 +227,54 @@ Register via [posit::conf(2026)](https://conf.posit.co/2026/) or contact [conf@p
 Want to join the advisory board and help shape the event?  
 👉 [Contact us here](https://rinpharma.com/contact.html)
 :::
+
+---
+
+# US Summit Roundtable Topics
+
+The topics below were finalized from the community's proposals in [GitHub Discussions](https://github.com/rinpharma/rinpharma-summit-2026/discussions/categories/round-table-idea) — thank you to everyone who proposed, upvoted, and commented. AI came up constantly across the proposals, so rather than splitting it thin across every table, we grouped it into two focused roundtables and kept the rest of the agenda open to the other topics the community cared about most.
+
+```{=html}
+<div class="topics-grid reveal">
+
+  <div class="topic-card">
+    <span class="tag tag-ai">AI GOVERNANCE</span>
+    <h4>Trust, Safeguards &amp; Governance for Agentic AI</h4>
+    <p>As agentic AI moves into GxP-regulated workflows, teams need concrete patterns for trust, safeguards, and governance before deploying these tools in the creation or QC of GxP study code. This table surfaces real-world lessons learned so far and tackles how to manage AI hallucinations in a regulated context. The goal is a shared, practical view of what "trustworthy agentic AI" actually looks like in pharma.</p>
+  </div>
+
+  <div class="topic-card">
+    <span class="tag tag-ai">AI OPERATIONS</span>
+    <h4>AI in Practice: Automation, Cost &amp; Skills</h4>
+    <p>Beyond governance, teams are wrestling with practical questions: when deterministic automation beats AI-driven automation, how to manage token costs and benchmark agents and LLMs responsibly, and what IDE setups and upskilling paths actually work in a GxP-related context. This roundtable is about the operational side of AI adoption — cost, tooling, and training — comparing what's genuinely working today. Expect a practical toolkit, not just theory.</p>
+  </div>
+
+  <div class="topic-card env">
+    <span class="tag tag-env">ENVIRONMENTS</span>
+    <h4>Reproducible Environments &amp; Package Provisioning</h4>
+    <p>Does renv make sense inside a Secure Computing Environment (SCE), and what does best-practice R package provisioning actually look like for GxP analyses? This table digs into the tradeoffs of environment management tools in validated, locked-down environments, drawing on real deployment experience. Attendees will leave with a clearer view of the options — and their limitations — for reproducible R environments in regulated pharma.</p>
+  </div>
+
+  <div class="topic-card pharma">
+    <span class="tag tag-pharma">REGULATORY</span>
+    <h4>Open Source in Regulatory Submissions &amp; Validation</h4>
+    <p>Are the industry's long-standing concerns about using open source like R in regulatory filings actually solved heading into 2026, or do they just look different now? This session extends that question to a related pain point — validating data exploration apps — to build a shared view of where open-source validation stands today. Expect input from people who have navigated real submissions.</p>
+  </div>
+
+  <div class="topic-card standards">
+    <span class="tag tag-roundtable">STANDARDS</span>
+    <h4>The Future of Analysis Results Standards (ARD/ARS)</h4>
+    <p>This is the community's most-discussed topic on GitHub — the architecture of parameterizable reporting and the case for standardized analysis results in a multi-technology, rapidly changing landscape. The roundtable digs into what a durable ARD/ARS standard needs to look like to survive shifting tech stacks and tooling. Given the interest already shown online, expect this table to be one of the most heavily attended.</p>
+  </div>
+
+  <div class="topic-card adoption">
+    <span class="tag tag-panel">ADOPTION</span>
+    <h4>Driving Adoption Beyond the Early Adopters</h4>
+    <p>Most of us have lived this: "my colleagues still use Excel — now what?" This roundtable tackles the long tail of adoption — bringing skeptical or resource-constrained colleagues into modern, open-source workflows without alienating them. It's a conversation about change management as much as technology.</p>
+  </div>
+
+</div>
+```
 
 ---
 
