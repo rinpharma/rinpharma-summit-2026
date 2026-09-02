@@ -156,43 +156,51 @@ a:hover {
   font-weight: 300;
 }
 
-/* --- Stats bar --- */
-.stats-bar {
+/* --- Value props bar --- */
+.value-props {
   display: flex;
   justify-content: center;
-  gap: 3rem;
+  gap: 1.75rem;
   flex-wrap: wrap;
   background: #fff;
   border: 1px solid #e2e8f0;
-  border-radius: 14px;
+  border-radius: 16px;
   box-shadow: 0 10px 30px rgba(28, 63, 149, 0.08);
-  padding: 1.1rem 2rem;
+  padding: 1.6rem 2rem;
   margin: -1.5rem 1.25rem 2.5rem;
   position: relative;
   z-index: 2;
 }
 
-.stat {
+.value-prop {
+  flex: 1 1 220px;
+  max-width: 280px;
   text-align: center;
 }
 
-.stat-num {
-  display: block;
-  font-size: 1.6rem;
-  font-weight: 800;
-  background: linear-gradient(135deg, #1c3f95, #0077b6);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
+.value-icon {
+  width: 46px;
+  height: 46px;
+  margin: 0 auto 0.55rem;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #eef2ff, #e0f2fe);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.35rem;
 }
 
-.stat-label {
-  display: block;
-  font-size: 0.74rem;
+.value-title {
+  font-weight: 800;
+  font-size: 1rem;
+  color: #1c3f95;
+  margin-bottom: 0.3rem;
+}
+
+.value-text {
+  font-size: 0.82rem;
   color: #64748a;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  margin-top: 0.15rem;
+  line-height: 1.5;
 }
 
 /* --- Event cards grid --- */
@@ -548,14 +556,14 @@ img {
 
 .endorsement-logo {
   display: block;
-  max-height: 48px;
+  max-height: 64px;
   width: auto;
   height: auto;
   margin: 0;
-  border-radius: 8px;
+  border-radius: 10px;
   box-shadow: none;
   background-color: #ffffff;
-  padding: 0.5rem 1rem;
+  padding: 0.6rem 1.2rem;
   transition: transform 0.2s ease;
 }
 
@@ -565,6 +573,38 @@ img {
 
 .endorsement-logo-osp {
   background-color: #1c3f95;
-  padding: 0.5rem 0.9rem;
-  border-radius: 8px;
+  padding: 0.6rem 1.1rem;
+  border-radius: 10px;
+}
+
+/* --- Scroll reveal --- */
+.reveal {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.65s ease, transform 0.65s ease;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* --- Scroll progress bar --- */
+#scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 0%;
+  background: linear-gradient(90deg, #1c3f95, #0077b6, #06b6d4);
+  z-index: 9999;
+  transition: width 0.1s ease-out;
 }
