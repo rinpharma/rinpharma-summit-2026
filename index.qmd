@@ -19,6 +19,11 @@ format:
     <span class="hero-sep">·</span>
     <a class="hero-date-pill" href="https://rinpharma.com/contact.html">🇨🇭 October 5 &middot; Basel</a>
   </div>
+  <p class="hero-countdown">
+    <span id="countdown-us">Houston —</span>
+    <span class="hero-sep">·</span>
+    <span id="countdown-eu">Basel —</span>
+  </p>
 </div>
 
 <div class="marquee">
@@ -278,6 +283,10 @@ The topics below were finalized from the community's proposals in [GitHub Discus
 
 ---
 
+::: {.section-eyebrow}
+GET INVOLVED
+:::
+
 # Roundtable Discussions
 
 The roundtable topics feed into **both** summits and are shaped openly by the community. Please get involved before the events.
@@ -298,13 +307,43 @@ All proposed roundtable topics are collected on GitHub Discussions:
 
 ---
 
+::: {.section-eyebrow}
+OUR STORY
+:::
+
 # Background
 
-In 2018 and 2019, **[R in Pharma](https://rinpharma.com/)** was in-person at Harvard University, focused on direct interaction between speakers and guests. Those connections have grown into many exciting areas of open source drug development.
+In 2018 and 2019, **[R in Pharma](https://rinpharma.com/)** was in-person at Harvard University, focused on direct interaction between speakers and guests. Those connections have grown into many exciting areas of open source drug development — and into the summit series shown below.
 
-- In **2023** we partnered with *[Posit](https://posit.co/)*, hosting a session at [posit::conf(2023)](https://posit.co/conference/2023/) in Chicago.
-- In **2024**, the session continued at [posit::conf(2024)](https://posit.co/conference/2024/) in Seattle.
-- In **2025**, we hosted a summit at [posit::conf(2025)](https://posit.co/conference/2025/) in Atlanta.
+```{=html}
+<div class="history-timeline reveal">
+  <div class="history-item">
+    <div class="history-year">2018–19</div>
+    <div class="history-place">Harvard University</div>
+    <div class="history-desc">In-person origins</div>
+  </div>
+  <div class="history-item">
+    <div class="history-year">2023</div>
+    <div class="history-place">Chicago</div>
+    <div class="history-desc">posit::conf(2023)</div>
+  </div>
+  <div class="history-item">
+    <div class="history-year">2024</div>
+    <div class="history-place">Seattle</div>
+    <div class="history-desc">posit::conf(2024)</div>
+  </div>
+  <div class="history-item">
+    <div class="history-year">2025</div>
+    <div class="history-place">Atlanta</div>
+    <div class="history-desc">posit::conf(2025)</div>
+  </div>
+  <div class="history-item current">
+    <div class="history-year">2026</div>
+    <div class="history-place">Houston &amp; Basel</div>
+    <div class="history-desc">First dual US/EU summits</div>
+  </div>
+</div>
+```
 
 ::: callout-important
 In **2026** we're expanding for the first time to **two events** — bringing the R/Pharma Summit to both the US and Europe! 🎉
@@ -312,9 +351,17 @@ In **2026** we're expanding for the first time to **two events** — bringing th
 
 ---
 
+::: {.section-eyebrow}
+WHY R/PHARMA
+:::
+
 # Purpose
 
 Over the last five years we've seen explosive growth in the use of R, Python, and other open-source technologies across drug development — with an accelerating focus on **AI**.
+
+::: {.pull-quote}
+Bringing people into a room to start the conversations that matter.
+:::
 
 The R/Pharma Summit provides an **open, collaborative, and inclusive environment** to foster in-person discussions on:
 
@@ -349,17 +396,25 @@ A mix of 50 people from pharmaceutical companies, CROs, and organizations suppor
 
 The following committee organises the EU Summit. The US Summit is organised by a larger group through the non-profit [Open-Source in Pharma](https://opensourceinpharma.com/), including representatives from several large pharmaceutical companies.
 
-- **Michael Mayer** (Posit)
-- **Aga Rasinksa** (Atorus)
-- **Gregory Chen** (MSD)
-- **Shannon Haughton** (GSK)
-- **James Black** (Novartis)
-- **Orla Doyle** (Novartis)
-- **Satish Murthy** (J&J)
-- **Phil Bowsher** (Posit)
-- **Mahmoud Hallal** (Roche)
+```{=html}
+<div class="committee-grid reveal">
+  <div class="committee-card"><div class="committee-avatar">MM</div><div class="committee-name">Michael Mayer</div><div class="committee-org">Posit</div></div>
+  <div class="committee-card"><div class="committee-avatar">AR</div><div class="committee-name">Aga Rasinksa</div><div class="committee-org">Atorus</div></div>
+  <div class="committee-card"><div class="committee-avatar">GC</div><div class="committee-name">Gregory Chen</div><div class="committee-org">MSD</div></div>
+  <div class="committee-card"><div class="committee-avatar">SH</div><div class="committee-name">Shannon Haughton</div><div class="committee-org">GSK</div></div>
+  <div class="committee-card"><div class="committee-avatar">JB</div><div class="committee-name">James Black</div><div class="committee-org">Novartis</div></div>
+  <div class="committee-card"><div class="committee-avatar">OD</div><div class="committee-name">Orla Doyle</div><div class="committee-org">Novartis</div></div>
+  <div class="committee-card"><div class="committee-avatar">SM</div><div class="committee-name">Satish Murthy</div><div class="committee-org">J&amp;J</div></div>
+  <div class="committee-card"><div class="committee-avatar">PB</div><div class="committee-name">Phil Bowsher</div><div class="committee-org">Posit</div></div>
+  <div class="committee-card"><div class="committee-avatar">MH</div><div class="committee-name">Mahmoud Hallal</div><div class="committee-org">Roche</div></div>
+</div>
+```
 
 ---
+
+::: {.section-eyebrow}
+QUESTIONS
+:::
 
 # FAQ
 
