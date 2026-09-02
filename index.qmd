@@ -240,37 +240,37 @@ The topics below were finalized from the community's proposals in [GitHub Discus
   <div class="topic-card">
     <span class="tag tag-ai">AI GOVERNANCE</span>
     <h4>Trust, Safeguards &amp; Governance for Agentic AI</h4>
-    <p>As agentic AI moves into GxP-regulated workflows, teams need concrete patterns for trust, safeguards, and governance before deploying these tools in the creation or QC of GxP study code. This table surfaces real-world lessons learned so far and tackles how to manage AI hallucinations in a regulated context. The goal is a shared, practical view of what "trustworthy agentic AI" actually looks like in pharma.</p>
+    <p>As agentic AI moves into GxP-regulated workflows, teams need concrete patterns for trust, safeguards, and governance before deploying these tools in the creation or QC of GxP study code. This table tackles managing hallucinations and maintaining accountability, how to ground agents with the right context and guardrails, and how to evaluate whether AI-generated R code is actually readable and trustworthy — not just correct. The goal is a shared, practical view of what "trustworthy agentic AI" looks like in pharma.</p>
   </div>
 
   <div class="topic-card">
     <span class="tag tag-ai">AI OPERATIONS</span>
     <h4>AI in Practice: Automation, Cost &amp; Skills</h4>
-    <p>Beyond governance, teams are wrestling with practical questions: when deterministic automation beats AI-driven automation, how to manage token costs and benchmark agents and LLMs responsibly, and what IDE setups and upskilling paths actually work in a GxP-related context. This roundtable is about the operational side of AI adoption — cost, tooling, and training — comparing what's genuinely working today. Expect a practical toolkit, not just theory.</p>
+    <p>Beyond governance, teams are wrestling with practical questions: when deterministic automation beats AI-driven automation, how to benchmark agents and manage token cost as a proxy for spend (including where smaller, local, or open-weight models hold up just fine), and what IDE setups and upskilling paths actually work in a GxP-related context. This roundtable is about the operational side of AI adoption — cost, tooling, and training — comparing what's genuinely working today. Expect a practical toolkit, not just theory.</p>
   </div>
 
   <div class="topic-card env">
     <span class="tag tag-env">ENVIRONMENTS</span>
     <h4>Reproducible Environments &amp; Package Provisioning</h4>
-    <p>Does renv make sense inside a Secure Computing Environment (SCE), and what does best-practice R package provisioning actually look like for GxP analyses? This table digs into the tradeoffs of environment management tools in validated, locked-down environments, drawing on real deployment experience. Attendees will leave with a clearer view of the options — and their limitations — for reproducible R environments in regulated pharma.</p>
+    <p>Does renv make sense inside a Secure Computing Environment (SCE), and what does best-practice R package provisioning actually look like for GxP analyses? As more people bring AI and Python workloads onto shared SCEs, this table also digs into the operational side — how to scale infrastructure like Workbench to meet demand, and whether that demand is even the right use of AI. Attendees will leave with a clearer view of the options, and their limitations, for reproducible R environments in regulated pharma.</p>
   </div>
 
   <div class="topic-card pharma">
     <span class="tag tag-pharma">REGULATORY</span>
     <h4>Open Source in Regulatory Submissions &amp; Validation</h4>
-    <p>Are the industry's long-standing concerns about using open source like R in regulatory filings actually solved heading into 2026, or do they just look different now? This session extends that question to a related pain point — validating data exploration apps — to build a shared view of where open-source validation stands today. Expect input from people who have navigated real submissions.</p>
+    <p>Are the industry's long-standing concerns about using open source like R in regulatory filings actually solved heading into 2026 — including where hybrid submissions and ADRG/ADaM inclusion of R code stand today? Drawing on work from CAMIS, pharmaverse, and the R Consortium's submissions working group, this session builds a shared view of agency appetite, reviewer familiarity with R, and confidence in R-based outputs. Expect input from people who have navigated real submissions.</p>
   </div>
 
   <div class="topic-card standards">
     <span class="tag tag-roundtable">STANDARDS</span>
     <h4>The Future of Analysis Results Standards (ARD/ARS)</h4>
-    <p>This is the community's most-discussed topic on GitHub — the architecture of parameterizable reporting and the case for standardized analysis results in a multi-technology, rapidly changing landscape. The roundtable digs into what a durable ARD/ARS standard needs to look like to survive shifting tech stacks and tooling. Given the interest already shown online, expect this table to be one of the most heavily attended.</p>
+    <p>This is the community's most-discussed topic on GitHub — the architecture of parameterizable reporting and the case for standardized analysis results in a multi-technology, rapidly changing landscape. The roundtable digs into what a durable ARD/ARS standard needs to look like to survive shifting tech stacks, tooling, and the upcoming CDISC v2 migration. Given the interest already shown online, expect this table to be one of the most heavily attended.</p>
   </div>
 
   <div class="topic-card adoption">
     <span class="tag tag-panel">ADOPTION</span>
     <h4>Driving Adoption Beyond the Early Adopters</h4>
-    <p>Most of us have lived this: "my colleagues still use Excel — now what?" This roundtable tackles the long tail of adoption — bringing skeptical or resource-constrained colleagues into modern, open-source workflows without alienating them. It's a conversation about change management as much as technology.</p>
+    <p>Most of us have lived this: "my colleagues still use Excel — now what?" This roundtable tackles the long tail of adoption — the change management behind org-wide migrations to open source and AI, and the judgment calls involved in bringing skeptical or resource-constrained colleagues along. It's a conversation about people and process as much as technology.</p>
   </div>
 
 </div>
