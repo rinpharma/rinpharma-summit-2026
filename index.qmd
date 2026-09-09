@@ -26,6 +26,10 @@ format:
   </p>
 </div>
 
+<div class="contact-banner reveal">
+  ❓ Have a question about the summits, workshops, or virtual R/Pharma? <a href="https://rinpharma.com/contact.html">Ask here →</a>
+</div>
+
 <div class="marquee">
   <div class="marquee-track">
     <span>OPEN SOURCE IN PHARMA</span><span class="dot">•</span>
@@ -75,9 +79,9 @@ format:
     <p><a href="https://www.novartis.com/about/novartis-campus"><strong>Novartis Pavilion</strong></a>, Novartis Campus, Basel, Switzerland</p>
     <p>A smaller, focused event — capacity is limited.</p>
     <hr>
-    <p>A limited number of spots open for registration in <strong>August</strong> — we expect them to go quickly.</p>
-    <p style="margin-top:0.5rem;font-size:0.84rem;">To request a spot in advance, please get in touch.</p>
-    <a class="card-link" href="https://luma.com/6liw5gw1">Register →</a>
+    <p><strong>Event Full</strong> — this summit is fully booked.</p>
+    <p style="margin-top:0.5rem;font-size:0.84rem;">If you'd like to attend, join the waitlist and we'll notify you if additional spots become available.</p>
+    <a class="card-link" href="https://rinpharma.com/contact.html">Join the Waitlist →</a>
   </div>
 
 </div>
@@ -131,7 +135,13 @@ Meeting Room: **TBC**
 | **1:30–4:00pm**   | *Shannon Haughton* (GSK)                      | <span class="tag tag-roundtable">ROUNDTABLE</span> **Round tables** — Split into 2 × 1hr sessions with short break between. Attendance at each table is flexible.               |
 | **4:00–4:45pm**   | *Mahmoud Hallal* (Roche) & Round table chairs | Chairs report back notes, and any planned follow up                                                                           |
 | **4:45–5:00pm**   | *Phil Bowsher* (Posit)                        | Wrap up                                                                                                                       |
-| **6:00–8:00pm**   | Posit Team                                    | Social event — *Posit Sponsored Apero on-site*                                                                                |
+| **6:00–8:00pm**   | Posit Team                                    | 🍸 Social event — Posit Sponsored Apéro at *[Perron Basel](https://perron-basel.ch/en/)*, Vogesenplatz 1, 4056 Basel |
+:::
+
+## Hotel
+
+::: {.callout-note}
+There's no hotel block for this summit — most attendees are local to the area. Note that **BiotechX Europe** is also in Basel around this time, so we recommend booking your hotel early if you're traveling in.
 :::
 
 ---
@@ -147,6 +157,11 @@ SUMMIT DETAILS
 Houston, Texas, USA  
 *The day before [posit::conf(2026)](https://conf.posit.co/2026/) workshops begin.*
 
+**R/Pharma Workshops — Monday, September 14:**
+
+- **Modern Clinical Reporting in R with the Pharmaverse** — end-to-end clinical reporting (SDTM, ADaM, TLGs, ARDs) for clinical programmers & biostatisticians
+- **Administering & Orchestrating Next-Gen Statistical Environments** — AI-integrated, GxP-compliant infrastructure, co-hosted by Pfizer & Posit
+
 [![R/Pharma Summit at posit::conf(2026) — Houston, Texas](images/conf2026-rpharma.webp){fig-align="center" width="80%"}](https://conf.posit.co/2026/registration)
 :::
 
@@ -161,11 +176,11 @@ Houston, Texas, USA
 ::: {.agenda-table .reveal}
 | Time | Chair | Description |
 |---|---|---|
-| **9:00 – 9:30am** | *Phil Bowsher* (Posit) & *Harvey Lieberman* (Novartis) | Welcome, introductions & kickoff — *Phil Bowsher* (Posit) & *Harvey Lieberman* (Novartis) |
+| **9:00 – 9:30am** | *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Director, Eli Lilly) | Welcome, introductions & kickoff — *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Director, Eli Lilly) |
 | **9:30 – 10:20am** | *Joe Cheng* (CTO, Posit) | <span class="tag tag-ai">AI</span> **The State of AI** — *Joe Cheng* (CTO, Posit) on reproducibility, trust, governance, skills, and R code vs. agent workflows |
 | **10:20 – 10:30am** | | Break |
-| **10:30 – 11:20am** | *Ashwini Weber* (Amgen) & *Dilip Raghunathan* (Regeneron) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — lightning talks from *Ashwini Weber* (Amgen) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
-| **11:30am – 12:30pm** | *Presenter TBC* | Lunch presentation & networking |
+| **10:30 – 11:20am** | *Eric Nantz* (Director, Eli Lilly) & *Dilip Raghunathan* (Regeneron) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — lightning talks from *Eric Nantz* (Eli Lilly) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
+| **11:30am – 12:30pm** | *Dror Berel* & *Eli Alexander Miller* (Atorus Research) | Lunch presentation & networking — proposals from *Dror Berel* (Biostatistics R Developer, Shiny/Teal) on Pharmaverse/Teal &amp; the public Teal Gallery Demos, and *Eli Alexander Miller* (Atorus Research) previewing R Consortium **Pilot 8** *(20 min each, pending confirmation)* |
 | **12:30 – 12:40pm** | | Break |
 | **12:40 – 1:25pm** | | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** *(~30–45 min)* |
 | **1:25 – 2:25pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 1 *(see the finalized topics below)* |
@@ -173,6 +188,7 @@ Houston, Texas, USA
 | **2:40 – 3:40pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 2 |
 | **3:40 – 4:40pm** | Round table chairs | Roundtable summaries presented by session chairs |
 | **4:40 – 5:00pm** | | Closing remarks |
+| **6:00pm** | WU Consulting Group | 🍸 **Evening Mixer** — hosted by WU Consulting Group *(location TBD)* |
 :::
 
 ### Featured Speakers
@@ -187,10 +203,10 @@ Houston, Texas, USA
     </div>
   </div>
   <div class="speaker-card">
-    <div class="speaker-avatar">AW</div>
+    <div class="speaker-avatar">EN</div>
     <div class="speaker-info">
-      <div class="speaker-name"><a href="https://www.linkedin.com/in/ashwini-weber">Ashwini Weber</a></div>
-      <div class="speaker-role">Sr. Biostatistical Programming Manager, Amgen</div>
+      <div class="speaker-name">Eric Nantz</div>
+      <div class="speaker-role">Director, Eli Lilly</div>
     </div>
   </div>
   <div class="speaker-card">
@@ -206,7 +222,7 @@ Houston, Texas, USA
 ::: {.mixer-block .reveal}
 🎤 **Open Floor — Live Executive Q&A**
 
-Attendees submit written questions throughout the morning; the panel answers them live and unscripted — a fast-paced way to surface the topics the room cares about most.
+Attendees submit written questions throughout the morning; a panel answers them live and unscripted — a fast-paced way to surface the topics the room cares about most. *Panelists to be announced — check back as the agenda firms up.*
 :::
 
 ::: {.mixer-block .reveal}
@@ -229,6 +245,8 @@ Register via [posit::conf(2026)](https://conf.posit.co/2026/) or contact [conf@p
 
 👉 [conf.posit.co/2026/registration](https://conf.posit.co/2026/registration)
 
+🏨 The Summit is held at the **Hilton Americas-Houston** — the same hotel hosting posit::conf(2026) itself, so most attendees book their stay there directly through the [posit::conf registration page](https://conf.posit.co/2026/registration).
+
 Want to join the advisory board and help shape the event?  
 👉 [Contact us here](https://rinpharma.com/contact.html)
 :::
@@ -238,6 +256,10 @@ Want to join the advisory board and help shape the event?
 # US Summit Roundtable Topics
 
 The topics below were finalized from the community's proposals in [GitHub Discussions](https://github.com/rinpharma/rinpharma-summit-2026/discussions/categories/round-table-idea) — thank you to everyone who proposed, upvoted, and commented. AI came up constantly across the proposals, so rather than splitting it thin across every table, we grouped it into two focused roundtables and kept the rest of the agenda open to the other topics the community cared about most.
+
+::: {.draft-notice}
+🙋 **We need volunteer chairs!** Each table needs a chair to guide the conversation and take notes to report back. If you'd like to volunteer for one of the six tables below, [let us know here](https://rinpharma.com/contact.html) — we'll follow up to confirm.
+:::
 
 ```{=html}
 <div class="topics-grid reveal">
@@ -313,7 +335,11 @@ OUR STORY
 
 # Background
 
-In 2018 and 2019, **[R in Pharma](https://rinpharma.com/)** was in-person at Harvard University, focused on direct interaction between speakers and guests. Those connections have grown into many exciting areas of open source drug development — and into the summit series shown below. R/Pharma's virtual programming, which grew out of that same 2020–2022 shift, has since become its own large annual event drawing 2,000–3,000 attendees a year — a great community in its own right, but a different experience from the smaller, face-to-face summits below.
+In 2018 and 2019, **[R in Pharma](https://rinpharma.com/)** was in-person at Harvard University, focused on direct interaction between speakers and guests. Those connections have grown into many exciting areas of open source drug development — and into the summit series shown below. R/Pharma's virtual programming, which grew out of that same 2020–2022 shift, has since become its own large annual event drawing thousands of attendees a year — a great community in its own right, but a different experience from the smaller, face-to-face summits below.
+
+::: {.callout-note}
+📺 **R/Pharma Virtual 2026 is a separate event from the summits on this page.** Workshops run **September 28 – October 1**, with presentations on **October 20–21**. [Register for R/Pharma Virtual here](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw).
+:::
 
 ```{=html}
 <div class="history-timeline reveal">
