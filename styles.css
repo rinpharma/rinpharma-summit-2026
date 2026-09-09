@@ -189,8 +189,8 @@ a:hover {
   color: #fff;
   text-align: center;
   padding: 3.75rem 2rem 3.25rem;
-  margin: -1rem -0.5rem 0;
-  border-radius: 0 0 22px 22px;
+  margin: 0.5rem -0.5rem 0;
+  border-radius: 22px;
   box-shadow: 0 20px 50px rgba(7, 21, 64, 0.25);
 }
 
