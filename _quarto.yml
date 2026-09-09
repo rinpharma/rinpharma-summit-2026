@@ -25,6 +25,9 @@ format:
     css: styles.css
     toc: true
     toc-depth: 3
+    include-before-body:
+      text: |
+        <div class="top-strip">📺 Prefer virtual? <a href="https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw">R/Pharma Virtual 2026 registration is open →</a></div>
     include-after-body:
       text: |
         <script>
