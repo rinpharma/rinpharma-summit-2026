@@ -78,14 +78,18 @@ a:hover {
   font-weight: 700;
 }
 
-/* --- Top strip (very slim, sits above the navbar) --- */
+/* --- Top strip (slim notice bar capping the hero block) --- */
 .top-strip {
+  position: relative;
+  z-index: 1;
   background: #0e7490;
   color: rgba(255, 255, 255, 0.92);
   text-align: center;
-  font-size: 0.72rem;
-  padding: 0.3rem 1rem;
+  font-size: 0.75rem;
+  padding: 0.45rem 1rem;
   letter-spacing: 0.01em;
+  margin: 0.5rem -0.5rem 0;
+  border-radius: 18px 18px 0 0;
 }
 
 .top-strip a {
@@ -188,10 +192,9 @@ a:hover {
     linear-gradient(145deg, #071540 0%, #1c3f95 55%, #1a6eb5 100%);
   color: #fff;
   text-align: center;
-  padding: 3.75rem 2rem 3.25rem;
-  margin: 0.5rem -0.5rem 0;
-  border-radius: 22px;
-  box-shadow: 0 20px 50px rgba(7, 21, 64, 0.25);
+  padding: 3.5rem 2rem 3.25rem;
+  margin: 0 -0.5rem;
+  border-radius: 0;
 }
 
 .hero-banner > * {
@@ -412,11 +415,15 @@ a:hover {
 
 /* --- Marquee ticker --- */
 .marquee {
+  position: relative;
+  z-index: 1;
   overflow: hidden;
   background: #0d1f5c;
   padding: 0.7rem 0;
   margin: 0 -0.5rem 2.5rem;
   white-space: nowrap;
+  border-radius: 0 0 18px 18px;
+  box-shadow: 0 20px 50px rgba(7, 21, 64, 0.22);
 }
 
 .marquee-track {
