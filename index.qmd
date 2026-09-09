@@ -45,10 +45,6 @@ format:
   ❓ Have a question about the summits, workshops, or virtual R/Pharma? <a href="https://rinpharma.com/contact.html">Ask here →</a>
 </div>
 
-<div class="virtual-note reveal">
-  📺 Prefer virtual? <a href="https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw">R/Pharma Virtual 2026 registration is open →</a>
-</div>
-
 <div class="stats-bar reveal">
   <div class="stat">
     <span class="stat-num">2</span>
@@ -246,18 +242,11 @@ Following a well-received happy hour last year, we're doing it again — join us
 ```
 :::
 
-## Registration
+## Hotel
 
 ::: {.callout-note}
-Register via [posit::conf(2026)](https://conf.posit.co/2026/) or contact [conf@posit.co](mailto:conf@posit.co) to attend without a full conference pass.
-
-👉 [conf.posit.co/2026/registration](https://conf.posit.co/2026/registration)
-
 🏨 The Summit is held at the **Hilton Americas-Houston** — the same hotel hosting posit::conf(2026) itself. In the heart of downtown, it offers sophisticated event spaces, upscale amenities, skyline views, and easy access to the city's dining and entertainment.  
 👉 [Book your room online](https://book.passkey.com/gt/220989671?gtid=6c4cdb47ca88466ccf695ae6624a43ea)
-
-Want to join the advisory board and help shape the event?  
-👉 [Contact us here](https://rinpharma.com/contact.html)
 :::
 
 ---
@@ -315,6 +304,23 @@ The topics below were finalized from the community's proposals in [GitHub Discus
 ---
 
 ::: {.section-eyebrow}
+REGISTER
+:::
+
+# Registration
+
+::: {.callout-note}
+Register via [posit::conf(2026)](https://conf.posit.co/2026/) or contact [conf@posit.co](mailto:conf@posit.co) to attend without a full conference pass.
+
+👉 [conf.posit.co/2026/registration](https://conf.posit.co/2026/registration)
+
+Want to join the advisory board and help shape the event?  
+👉 [Contact us here](https://rinpharma.com/contact.html)
+:::
+
+---
+
+::: {.section-eyebrow}
 GET INVOLVED
 :::
 
@@ -347,7 +353,7 @@ OUR STORY
 In 2018 and 2019, **[R in Pharma](https://rinpharma.com/)** was in-person at Harvard University, focused on direct interaction between speakers and guests. Those connections have grown into many exciting areas of open source drug development — and into the summit series shown below. R/Pharma's virtual programming, which grew out of that same 2020–2022 shift, has since become its own large annual event drawing thousands of attendees a year — a great community in its own right, but a different experience from the smaller, face-to-face summits below.
 
 ::: {.callout-note}
-📺 **R/Pharma Virtual 2026 is a separate event from the summits on this page.** Workshops run **September 28 – October 1**, with presentations on **October 20–21**. [Register for R/Pharma Virtual here](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw).
+📺 **R/Pharma Virtual 2026 is a separate event from the summits on this page.** Workshops run **September 28 – October 1** — 25 free workshops spread across timezones around the globe — with presentations on **October 20–21**. [Register for R/Pharma Virtual here](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw).
 :::
 
 ```{=html}
@@ -478,7 +484,7 @@ QUESTIONS
   </details>
   <details class="faq-item">
     <summary>What does it cost to attend?</summary>
-    <div class="faq-answer">The US Summit is available as a standalone ticket ($599) or as an add-on with a posit::conf(2026) pass — see the registration link above. The EU (Basel) Summit has a small cost to help cover food and venue, since it isn't hosted on-site at a pharma company — it's a contributor-run event where the organizers and attendees travel in to make it happen, and a small number of extra spots may open up closer to the date. By contrast, R/Pharma Virtual — including its workshops and conference sessions — is completely free, a one-of-a-kind event made possible by pharma company sponsorship.</div>
+    <div class="faq-answer">The EU (Basel) Summit is free to attend — it's hosted at the Novartis Pavilion, with Novartis and the organizing committee covering costs as a contributor-run event where organizers travel in to host it; a small number of extra spots may open up beyond the current waitlist. The US Summit has a cost ($599 standalone, or bundled with a posit::conf(2026) pass) since it's held at a commercial hotel (Hilton Americas-Houston) rather than on a pharma company campus — see the registration link above. By contrast, R/Pharma Virtual — including its workshops and conference sessions — is completely free, a one-of-a-kind event made possible by pharma company support.</div>
   </details>
 </div>
 ```
