@@ -498,7 +498,7 @@ QUESTIONS
 Endorsed & Supported By
 :::
 
-This summit is under the umbrella of **R/Pharma** and **Open Source in Pharma**. The EU event is hosted by **Novartis** and **Posit**.
+This summit is under the umbrella of **R/Pharma** and **Open Source in Pharma**, supported by pharma partners **Novartis** and **Johnson & Johnson**. The EU event is hosted by **Novartis** and **Posit**.
 
 ::: {.endorsement-logos}
 [![R/Pharma](images/logo-rinpharma.png){.endorsement-logo}](https://rinpharma.com/)
@@ -506,6 +506,10 @@ This summit is under the umbrella of **R/Pharma** and **Open Source in Pharma**.
 [![Open Source in Pharma](images/logo-osp.png){.endorsement-logo .endorsement-logo-osp}](https://opensourceinpharma.com/)
 
 [![Posit](images/logo-posit.png){.endorsement-logo}](https://posit.co/)
+
+[![Novartis](images/logo-novartis.svg){.endorsement-logo}](https://www.novartis.com/)
+
+[![Johnson & Johnson](images/logo-jnj.svg){.endorsement-logo}](https://www.jnj.com/)
 
 [![WU Consulting Group](images/logo-wu.png){.endorsement-logo}](https://wuconsulting.com/)
 :::
