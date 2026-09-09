@@ -78,23 +78,20 @@ a:hover {
   font-weight: 700;
 }
 
-/* --- Virtual note (small, subtle sticky-note callout) --- */
-.virtual-note {
-  display: block;
-  width: fit-content;
-  background: #ecfeff;
-  border: 1px solid #bae6fd;
-  border-radius: 8px;
-  padding: 0.45rem 1rem;
-  margin: 0 auto 1.5rem;
+/* --- Top strip (very slim, sits above the navbar) --- */
+.top-strip {
+  background: #0e7490;
+  color: rgba(255, 255, 255, 0.92);
   text-align: center;
-  font-size: 0.82rem;
-  color: #0e7490;
+  font-size: 0.72rem;
+  padding: 0.3rem 1rem;
+  letter-spacing: 0.01em;
 }
 
-.virtual-note a {
+.top-strip a {
+  color: #fff;
   font-weight: 700;
-  color: #0077b6;
+  text-decoration: underline;
 }
 
 /* --- TOC polish --- */
