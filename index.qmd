@@ -26,10 +26,6 @@ format:
   </p>
 </div>
 
-<div class="contact-banner reveal">
-  ❓ Have a question about the summits, workshops, or virtual R/Pharma? <a href="https://rinpharma.com/contact.html">Ask here →</a>
-</div>
-
 <div class="marquee">
   <div class="marquee-track">
     <span>OPEN SOURCE IN PHARMA</span><span class="dot">•</span>
@@ -43,6 +39,14 @@ format:
     <span>BASEL</span><span class="dot">•</span>
     <span>ROUNDTABLE DISCUSSIONS</span><span class="dot">•</span>
   </div>
+</div>
+
+<div class="contact-banner reveal">
+  ❓ Have a question about the summits, workshops, or virtual R/Pharma? <a href="https://rinpharma.com/contact.html">Ask here →</a>
+</div>
+
+<div class="virtual-note reveal">
+  📺 Prefer virtual? <a href="https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw">R/Pharma Virtual 2026 registration is open →</a>
 </div>
 
 <div class="stats-bar reveal">
@@ -176,10 +180,10 @@ Houston, Texas, USA
 ::: {.agenda-table .reveal}
 | Time | Chair | Description |
 |---|---|---|
-| **9:00 – 9:30am** | *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Director, Eli Lilly) | Welcome, introductions & kickoff — *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Director, Eli Lilly) |
-| **9:30 – 10:20am** | *Joe Cheng* (CTO, Posit) | <span class="tag tag-ai">AI</span> **The State of AI** — *Joe Cheng* (CTO, Posit) on reproducibility, trust, governance, skills, and R code vs. agent workflows |
+| **9:00 – 9:30am** | *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Eli Lilly) | Welcome, introductions & kickoff — *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Eli Lilly) |
+| **9:30 – 10:20am** | *Joe Cheng* (Posit) | <span class="tag tag-ai">AI</span> **The State of AI** — *Joe Cheng* (Posit) on reproducibility, trust, governance, skills, and R code vs. agent workflows |
 | **10:20 – 10:30am** | | Break |
-| **10:30 – 11:20am** | *Eric Nantz* (Director, Eli Lilly) & *Dilip Raghunathan* (Regeneron) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — lightning talks from *Eric Nantz* (Eli Lilly) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
+| **10:30 – 11:20am** | *Eric Nantz* (Eli Lilly) & *Dilip Raghunathan* (Regeneron) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — lightning talks from *Eric Nantz* (Eli Lilly) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
 | **11:30am – 12:30pm** | *Dror Berel* & *Eli Alexander Miller* (Atorus Research) | Lunch presentation & networking — proposals from *Dror Berel* (Biostatistics R Developer, Shiny/Teal) on Pharmaverse/Teal &amp; the public Teal Gallery Demos, and *Eli Alexander Miller* (Atorus Research) previewing [R Consortium Submissions WG Pilot 8](https://rconsortium.github.io/submissions-wg/) — a proposal to demonstrate responsible, auditable use of AI agents in the submissions pipeline, building on Pilots 1–7 *(20 min each, pending confirmation)* |
 | **12:30 – 12:40pm** | | Break |
 | **12:40 – 1:25pm** | | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** *(~30–45 min)* |
@@ -189,6 +193,10 @@ Houston, Texas, USA
 | **3:40 – 4:40pm** | Round table chairs | Roundtable summaries presented by session chairs |
 | **4:40 – 5:00pm** | | Closing remarks |
 | **6:00pm** | WU Consulting Group | 🍸 **Evening Mixer** — hosted by WU Consulting Group *(location TBD)* |
+:::
+
+::: {.draft-notice}
+🙋 **We need volunteer chairs!** Each table needs a chair to guide the conversation and take notes to report back. If you'd like to volunteer for one of the six roundtables (details further down the page), [let us know here](https://rinpharma.com/contact.html) — we'll follow up to confirm.
 :::
 
 ### Featured Speakers
@@ -257,10 +265,6 @@ Want to join the advisory board and help shape the event?
 # US Summit Roundtable Topics
 
 The topics below were finalized from the community's proposals in [GitHub Discussions](https://github.com/rinpharma/rinpharma-summit-2026/discussions/categories/round-table-idea) — thank you to everyone who proposed, upvoted, and commented. AI came up constantly across the proposals, so rather than splitting it thin across every table, we grouped it into two focused roundtables and kept the rest of the agenda open to the other topics the community cared about most.
-
-::: {.draft-notice}
-🙋 **We need volunteer chairs!** Each table needs a chair to guide the conversation and take notes to report back. If you'd like to volunteer for one of the six tables below, [let us know here](https://rinpharma.com/contact.html) — we'll follow up to confirm.
-:::
 
 ```{=html}
 <div class="topics-grid reveal">
@@ -470,7 +474,7 @@ QUESTIONS
   </details>
   <details class="faq-item">
     <summary>What does it cost to attend?</summary>
-    <div class="faq-answer">The US Summit is available as a standalone ticket or as an add-on with a posit::conf(2026) pass — see the registration link above. The EU Summit is a smaller, invite-style event; reach out via the contact link to request a spot.</div>
+    <div class="faq-answer">The US Summit is available as a standalone ticket ($599) or as an add-on with a posit::conf(2026) pass — see the registration link above. The EU (Basel) Summit has a small cost to help cover food and venue, since it isn't hosted on-site at a pharma company — it's a contributor-run event where the organizers and attendees travel in to make it happen, and a small number of extra spots may open up closer to the date. By contrast, R/Pharma Virtual — including its workshops and conference sessions — is completely free, a one-of-a-kind event made possible by pharma company sponsorship.</div>
   </details>
 </div>
 ```
