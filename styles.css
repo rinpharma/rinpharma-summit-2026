@@ -78,6 +78,25 @@ a:hover {
   font-weight: 700;
 }
 
+/* --- Virtual note (small, subtle sticky-note callout) --- */
+.virtual-note {
+  display: block;
+  width: fit-content;
+  background: #ecfeff;
+  border: 1px solid #bae6fd;
+  border-radius: 8px;
+  padding: 0.45rem 1rem;
+  margin: 0 auto 1.5rem;
+  text-align: center;
+  font-size: 0.82rem;
+  color: #0e7490;
+}
+
+.virtual-note a {
+  font-weight: 700;
+  color: #0077b6;
+}
+
 /* --- TOC polish --- */
 #toc-title {
   font-weight: 800;
