@@ -165,6 +165,10 @@ Houston, Texas, USA
 [![R/Pharma Summit at posit::conf(2026) — Houston, Texas](images/conf2026-rpharma.webp){fig-align="center" width="80%"}](https://conf.posit.co/2026/registration)
 :::
 
+::: {.draft-notice}
+🎉 A Saturday night pre-summit hangout is in the works — details and an invite email will be sent soon.
+:::
+
 ## Agenda
 
 ::: {.draft-notice}
@@ -177,7 +181,7 @@ Houston, Texas, USA
 | Time | Chair | Description |
 |---|---|---|
 | **9:00 – 9:30am** | *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Eli Lilly) | Welcome, introductions & kickoff — *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Eli Lilly) |
-| **9:30 – 10:20am** | *Joe Cheng* (Posit) | <span class="tag tag-ai">AI</span> **The State of AI** — *Joe Cheng* (Posit) on reproducibility, trust, governance, skills, and R code vs. agent workflows |
+| **9:30 – 10:20am** | *Joe Cheng* (Posit) | <span class="tag tag-ai">AI</span> **The State of Regulatory Reproducibility** — *Joe Cheng* (Posit) on why FDA reviewers are increasingly requesting SAS-equivalent code alongside R submissions, and what that means as generic AI coding systems — for both programmers and autonomous agents — enter the regulatory pipeline. Covers the real failure modes behind "hard to reproduce" R submissions (environment mismatches, hidden setup assumptions, deeply nested code) and why those same failure modes get harder, not easier, to avoid when the code is AI-generated |
 | **10:20 – 10:30am** | | Break |
 | **10:30 – 11:20am** | *Eric Nantz* (Eli Lilly) & *Dilip Raghunathan* (Regeneron) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — lightning talks from *Eric Nantz* (Eli Lilly) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
 | **11:30am – 12:30pm** | *Dror Berel* & *Eli Alexander Miller* (Atorus Research) | Lunch presentation & networking — proposals from *Dror Berel* (Biostatistics R Developer, Shiny/Teal) on Pharmaverse/Teal &amp; the public Teal Gallery Demos, and *Eli Alexander Miller* (Atorus Research) previewing [R Consortium Submissions WG Pilot 8](https://rconsortium.github.io/submissions-wg/) — a proposal to demonstrate responsible, auditable use of AI agents in the submissions pipeline, building on Pilots 1–7 *(20 min each, pending confirmation)* |
@@ -188,7 +192,7 @@ Houston, Texas, USA
 | **2:40 – 3:40pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 2 |
 | **3:40 – 4:40pm** | Round table chairs | Roundtable summaries presented by session chairs |
 | **4:40 – 5:00pm** | | Closing remarks |
-| **6:00pm** | WU Consulting Group | 🍸 **Evening Mixer** — hosted by WU Consulting Group *(location TBD)* |
+| **6:00pm** | WU Consulting Group | 🍸 **Evening Mixer** — hosted by WU Consulting Group at *Reserve 101* (6-min walk from the hotel) |
 :::
 
 ::: {.draft-notice}
@@ -232,7 +236,7 @@ Attendees submit written questions throughout the morning; a panel answers them 
 ::: {.mixer-block .reveal}
 🍸 **Evening Mixer — 6:00pm**
 
-Following a well-received happy hour last year, we're doing it again — join us for drinks at a venue within walking distance of the summit. Exact location will be confirmed closer to the event.
+Following a well-received happy hour last year, we're doing it again — join us for drinks at **Reserve 101**, a classy cocktail & whiskey bar just a 6-minute walk from the hotel (1201 Caroline St). Given our group size, expect a partial or full venue buyout. Questions for the venue: (713) 480-1579.
 
 ```{=html}
 <div class="host-badge">
