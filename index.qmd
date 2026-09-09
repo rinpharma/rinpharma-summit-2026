@@ -80,7 +80,7 @@ format:
   <div class="event-card eu">
     <span class="event-tag">EU Summit</span>
     <h3>🇨🇭 October 5 · Basel</h3>
-    <p><a href="https://www.novartis.com/about/novartis-campus"><strong>Novartis Pavilion</strong></a>, Novartis Campus, Basel, Switzerland</p>
+    <p><a href="https://www.campus.novartis.com/en/novartis-pavillon"><strong>Novartis Pavilion</strong></a>, St. Johanns-Hafen-Weg 5, Novartis Campus, Basel, Switzerland</p>
     <p>A smaller, focused event — capacity is limited.</p>
     <hr>
     <p><strong>Event Full</strong> — this summit is fully booked.</p>
@@ -118,8 +118,8 @@ SUMMIT DETAILS
 # EU Summit — October 5, Basel
 
 ::: {.venue-block .reveal}
-**[Novartis Pavilion](https://www.novartis.com/about/novartis-campus)**  
-Novartis Campus · Basel, Switzerland  
+**[Novartis Pavilion](https://www.campus.novartis.com/en/novartis-pavillon)**  
+St. Johanns-Hafen-Weg 5, Novartis Campus · Basel, Switzerland  
 Meeting Room: **TBC**
 
 [![Novartis Pavillon, Basel — Photo: Alexandre Prevot (CC BY-SA 2.0 via Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg/1920px-Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg){fig-align="center" width="80%"}](https://rinpharma.com/contact.html)
@@ -265,6 +265,10 @@ Want to join the advisory board and help shape the event?
 # US Summit Roundtable Topics
 
 The topics below were finalized from the community's proposals in [GitHub Discussions](https://github.com/rinpharma/rinpharma-summit-2026/discussions/categories/round-table-idea) — thank you to everyone who proposed, upvoted, and commented. AI came up constantly across the proposals, so rather than splitting it thin across every table, we grouped it into two focused roundtables and kept the rest of the agenda open to the other topics the community cared about most.
+
+::: {.draft-notice}
+📌 **You can pick only one AI-focused table across your two rounds.** There are two rounds and six tables — two of them are AI-focused (Trust & Governance, and AI Operations). Since AI is popular, we're asking each attendee to choose at most one of the two AI tables so both stay focused and the other four topics get a fair mix of participants.
+:::
 
 ```{=html}
 <div class="topics-grid reveal">
