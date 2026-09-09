@@ -180,7 +180,7 @@ Houston, Texas, USA
 | **9:30 – 10:20am** | *Joe Cheng* (CTO, Posit) | <span class="tag tag-ai">AI</span> **The State of AI** — *Joe Cheng* (CTO, Posit) on reproducibility, trust, governance, skills, and R code vs. agent workflows |
 | **10:20 – 10:30am** | | Break |
 | **10:30 – 11:20am** | *Eric Nantz* (Director, Eli Lilly) & *Dilip Raghunathan* (Regeneron) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — lightning talks from *Eric Nantz* (Eli Lilly) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
-| **11:30am – 12:30pm** | *Dror Berel* & *Eli Alexander Miller* (Atorus Research) | Lunch presentation & networking — proposals from *Dror Berel* (Biostatistics R Developer, Shiny/Teal) on Pharmaverse/Teal &amp; the public Teal Gallery Demos, and *Eli Alexander Miller* (Atorus Research) previewing R Consortium **Pilot 8** *(20 min each, pending confirmation)* |
+| **11:30am – 12:30pm** | *Dror Berel* & *Eli Alexander Miller* (Atorus Research) | Lunch presentation & networking — proposals from *Dror Berel* (Biostatistics R Developer, Shiny/Teal) on Pharmaverse/Teal &amp; the public Teal Gallery Demos, and *Eli Alexander Miller* (Atorus Research) previewing [R Consortium Submissions WG Pilot 8](https://rconsortium.github.io/submissions-wg/) — a proposal to demonstrate responsible, auditable use of AI agents in the submissions pipeline, building on Pilots 1–7 *(20 min each, pending confirmation)* |
 | **12:30 – 12:40pm** | | Break |
 | **12:40 – 1:25pm** | | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** *(~30–45 min)* |
 | **1:25 – 2:25pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 1 *(see the finalized topics below)* |
@@ -203,9 +203,9 @@ Houston, Texas, USA
     </div>
   </div>
   <div class="speaker-card">
-    <div class="speaker-avatar">EN</div>
+    <img src="images/speaker-eric.jpg" alt="Eric Nantz" class="speaker-photo">
     <div class="speaker-info">
-      <div class="speaker-name">Eric Nantz</div>
+      <div class="speaker-name"><a href="https://www.linkedin.com/in/eric-nantz-6621617/">Eric Nantz</a></div>
       <div class="speaker-role">Director, Eli Lilly</div>
     </div>
   </div>
@@ -245,7 +245,8 @@ Register via [posit::conf(2026)](https://conf.posit.co/2026/) or contact [conf@p
 
 👉 [conf.posit.co/2026/registration](https://conf.posit.co/2026/registration)
 
-🏨 The Summit is held at the **Hilton Americas-Houston** — the same hotel hosting posit::conf(2026) itself, so most attendees book their stay there directly through the [posit::conf registration page](https://conf.posit.co/2026/registration).
+🏨 The Summit is held at the **Hilton Americas-Houston** — the same hotel hosting posit::conf(2026) itself. In the heart of downtown, it offers sophisticated event spaces, upscale amenities, skyline views, and easy access to the city's dining and entertainment.  
+👉 [Book your room online](https://book.passkey.com/gt/220989671?gtid=6c4cdb47ca88466ccf695ae6624a43ea)
 
 Want to join the advisory board and help shape the event?  
 👉 [Contact us here](https://rinpharma.com/contact.html)
