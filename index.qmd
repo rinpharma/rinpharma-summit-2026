@@ -120,6 +120,18 @@ St. Johanns-Hafen-Weg 5, Novartis Campus · Basel, Switzerland
 [![Novartis Pavillon, Basel — Photo: Alexandre Prevot (CC BY-SA 2.0 via Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg/1920px-Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg){fig-align="center" width="80%"}](https://rinpharma.com/contact.html)
 :::
 
+## Getting to the Novartis Pavilion (Basel)
+
+::: {.callout-important}
+Please bring ID and head directly to the pavilion.
+:::
+
+[![How to get to Novartis Pavilion from Novartis Campus tram stop](https://github.com/user-attachments/assets/5a7643d5-6102-4deb-8464-fd026eb99d9b){fig-align="center" width="85%"}](https://github.com/user-attachments/assets/5a7643d5-6102-4deb-8464-fd026eb99d9b)
+
+- **From EuroAirport Basel (15 min travel time):** Take the Airport Express Bus PTT 50 to Kannenfeldplatz. Change to Tram 1 (direction Dreirosenbrücke) to the Novartis Campus stop.
+- **By tram from Bahnhof Basel SBB (15 min travel time):** Take Tram 1 (direction Dreirosenbrücke, platform D) in front of the main station to the Novartis Campus stop.
+- **Getting here by bicycle:** There are multiple covered bicycle parking stations around the campus, which campus tenants and visitors are welcome to use.
+
 ## Agenda
 
 ::: {.agenda-table .reveal}
