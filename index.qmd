@@ -81,7 +81,7 @@ format:
     <hr>
     <p><strong>Event Full</strong> — this summit is fully booked.</p>
     <p style="margin-top:0.5rem;font-size:0.84rem;">If you'd like to attend, join the waitlist and we'll notify you if additional spots become available.</p>
-    <a class="card-link" href="https://rinpharma.com/contact.html">Join the Waitlist →</a>
+    <a class="card-link" href="https://luma.com/event/manage/evt-QlcPr0itnDFWIBM">Join the Waitlist →</a>
   </div>
 
 </div>
@@ -116,7 +116,6 @@ SUMMIT DETAILS
 ::: {.venue-block .reveal}
 **[Novartis Pavilion](https://www.campus.novartis.com/en/novartis-pavillon)**  
 St. Johanns-Hafen-Weg 5, Novartis Campus · Basel, Switzerland  
-Meeting Room: **TBC**
 
 [![Novartis Pavillon, Basel — Photo: Alexandre Prevot (CC BY-SA 2.0 via Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg/1920px-Novartis_Campus_-_Novartis_Pavillon_%2853992600334%29.jpg){fig-align="center" width="80%"}](https://rinpharma.com/contact.html)
 :::
@@ -135,7 +134,7 @@ Meeting Room: **TBC**
 | **1:30–4:00pm**   | *Shannon Haughton* (GSK)                      | <span class="tag tag-roundtable">ROUNDTABLE</span> **Round tables** — Split into 2 × 1hr sessions with short break between. Attendance at each table is flexible.               |
 | **4:00–4:45pm**   | *Mahmoud Hallal* (Roche) & Round table chairs | Chairs report back notes, and any planned follow up                                                                           |
 | **4:45–5:00pm**   | *Phil Bowsher* (Posit)                        | Wrap up                                                                                                                       |
-| **6:00–8:00pm**   | Posit Team                                    | 🍸 Social event — Posit Sponsored Apéro at *[Perron Basel](https://perron-basel.ch/en/)*, Vogesenplatz 1, 4056 Basel |
+| **5:00–6:30pm**   | Posit Team                                    | 🍸 Social event — Posit Sponsored Apéro at our summit venue |
 :::
 
 ## Hotel
