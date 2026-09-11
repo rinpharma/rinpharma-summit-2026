@@ -26,6 +26,11 @@ format:
   </p>
 </div>
 
+<div class="quick-nav reveal">
+  <a class="quick-nav-btn us" href="#us-summit-september-13-houston">🇺🇸 Go to US Summit Info</a>
+  <a class="quick-nav-btn eu" href="#eu-summit-october-5-basel">🇨🇭 Go to EU Summit Info</a>
+</div>
+
 <div class="marquee">
   <div class="marquee-track">
     <span>OPEN SOURCE IN PHARMA</span><span class="dot">•</span>
@@ -68,6 +73,7 @@ format:
     <p><a href="https://conf.posit.co/2026/"><strong>Hilton Americas-Houston</strong></a>, Houston, TX</p>
     <p>The day before <a href="https://conf.posit.co/2026/">posit::conf(2026)</a> workshops begin. A full-day roundtable bringing together 80–100 pharma leaders and practitioners.</p>
     <hr>
+    <p style="font-size:0.84rem;">📍 <strong>Room 335 A/B/C</strong>, 3rd floor — same floor as the main conference. Look for the R/Pharma sign; Posit wayfinders will be on-site to help guide you.</p>
     <p style="font-size:0.84rem;">To attend without a conference pass, contact <a href="mailto:conf@posit.co">conf@posit.co</a></p>
     <p style="font-size:0.84rem;">Want to join the advisory board? <a href="https://rinpharma.com/contact.html">Contact us</a></p>
     <a class="card-link" href="https://conf.posit.co/2026/registration">Register →</a>
@@ -81,7 +87,7 @@ format:
     <hr>
     <p><strong>Event Full</strong> — this summit is fully booked.</p>
     <p style="margin-top:0.5rem;font-size:0.84rem;">If you'd like to attend, join the waitlist and we'll notify you if additional spots become available.</p>
-    <a class="card-link" href="https://luma.com/event/manage/evt-QlcPr0itnDFWIBM">Join the Waitlist →</a>
+    <a class="card-link" href="https://luma.com/6liw5gw1">Join the Waitlist →</a>
   </div>
 
 </div>
@@ -126,7 +132,7 @@ St. Johanns-Hafen-Weg 5, Novartis Campus · Basel, Switzerland
 Please bring ID and head directly to the pavilion.
 :::
 
-[![How to get to Novartis Pavilion from Novartis Campus tram stop](https://github.com/user-attachments/assets/5a7643d5-6102-4deb-8464-fd026eb99d9b){fig-align="center" width="85%"}](https://github.com/user-attachments/assets/5a7643d5-6102-4deb-8464-fd026eb99d9b)
+![How to get to Novartis Pavilion from Novartis Campus tram stop](images/novartis-directions.png){fig-align="center" width="85%"}
 
 - **From EuroAirport Basel (15 min travel time):** Take the Airport Express Bus PTT 50 to Kannenfeldplatz. Change to Tram 1 (direction Dreirosenbrücke) to the Novartis Campus stop.
 - **By tram from Bahnhof Basel SBB (15 min travel time):** Take Tram 1 (direction Dreirosenbrücke, platform D) in front of the main station to the Novartis Campus stop.
@@ -146,7 +152,7 @@ Please bring ID and head directly to the pavilion.
 | **1:30–4:00pm**   | *Shannon Haughton* (GSK)                      | <span class="tag tag-roundtable">ROUNDTABLE</span> **Round tables** — Split into 2 × 1hr sessions with short break between. Attendance at each table is flexible.               |
 | **4:00–4:45pm**   | *Mahmoud Hallal* (Roche) & Round table chairs | Chairs report back notes, and any planned follow up                                                                           |
 | **4:45–5:00pm**   | *Phil Bowsher* (Posit)                        | Wrap up                                                                                                                       |
-| **5:00–6:30pm**   | Posit Team                                    | 🍸 Social event — Posit Sponsored Apéro at our summit venue |
+| **5:00–6:30pm**   | Posit Team                                    | 🍸 Social event — Posit Sponsored Apéro on-site at the Novartis Pavilion |
 :::
 
 ## Hotel
@@ -177,13 +183,17 @@ Houston, Texas, USA
 :::
 
 ::: {.draft-notice}
-🎉 A Saturday night pre-summit hangout is in the works — details and an invite email will be sent soon.
+🎉 **Saturday Night Pre-Summit Hangout — Sept 12, ~6:30–8:30pm.** Join us at **The Lobby Bar**, right in the Hilton Americas-Houston. Look for Paulo and Eric, who'll be there early to help get the group settled — walk-ins welcome, no reservation needed.
 :::
 
 ## Agenda
 
 ::: {.draft-notice}
 📋 The agenda is still being finalized — speakers, exact timing, and the lunch session are subject to change.
+:::
+
+::: {.draft-notice}
+💻 Laptops optional — the day is conversational, not hands-on. 🎥 The day is not being recorded.
 :::
 
 **Full day: 9:00am – 5:00pm**
@@ -194,10 +204,10 @@ Houston, Texas, USA
 | **9:00 – 9:30am** | *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Eli Lilly) | Welcome, introductions & kickoff — *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Eli Lilly) |
 | **9:30 – 10:20am** | *Joe Cheng* (Posit) | <span class="tag tag-ai">REPRODUCIBILITY</span> **The State of Regulatory Reproducibility** — *Joe Cheng* (Posit) on the state of reproducibility with R in regulated submissions: why Agency reviewers are asking harder questions, and the best practices that keep R code reviewable and trustworthy as coding practices continue to evolve with updates and AI |
 | **10:20 – 10:30am** | | Break |
-| **10:30 – 11:20am** | *Eric Nantz* (Eli Lilly) & *Dilip Raghunathan* (Regeneron) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — lightning talks from *Eric Nantz* (Eli Lilly) and *Dilip Raghunathan* (Regeneron), followed by fireside discussion on AI application in pharma, pain points, and the submission side, including metadata-driven approaches |
+| **10:30 – 11:20am** | *Eric Nantz* (Eli Lilly), *Dilip Raghunathan* (Regeneron) & *Mike K Smith* (Pfizer) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — 15-minute lightning talks from *Eric Nantz* (Eli Lilly), *Dilip Raghunathan* (Regeneron), and *Mike K Smith* (Pfizer) on AI application in pharma, pain points, and the submission side, including metadata-driven approaches, followed by a 10–15 minute Q&A panel with all three |
 | **11:30am – 12:30pm** | *Dror Berel* & *Eli Alexander Miller* (Atorus Research) | Lunch presentation & networking — proposals from *Dror Berel* (Biostatistics R Developer, Shiny/Teal) on Pharmaverse/Teal &amp; the public Teal Gallery Demos, and *Eli Alexander Miller* (Atorus Research) previewing [R Consortium Submissions WG Pilot 8](https://rconsortium.github.io/submissions-wg/) — a proposal to demonstrate responsible, auditable use of AI agents in the submissions pipeline, building on Pilots 1–7 *(20 min each, pending confirmation)* |
 | **12:30 – 12:40pm** | | Break |
-| **12:40 – 1:25pm** | | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** *(~30–45 min)* |
+| **12:40 – 1:25pm** | *Benjamin Arancibia* (GSK), *Shannon Pileggi* (PCCTC) & 2–3 more TBD | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** — a panel featuring *Benjamin Arancibia* (GSK), *Shannon Pileggi* (Prostate Cancer Clinical Trials Consortium) and a few more panelists still being confirmed *(~30–45 min)* |
 | **1:25 – 2:25pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 1 *(see the finalized topics below)* |
 | **2:25 – 2:40pm** | | Break |
 | **2:40 – 3:40pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 2 |
@@ -235,13 +245,20 @@ Houston, Texas, USA
       <div class="speaker-role">Regeneron</div>
     </div>
   </div>
+  <div class="speaker-card">
+    <img src="images/speaker-mike.jpg" alt="Mike K Smith" class="speaker-photo">
+    <div class="speaker-info">
+      <div class="speaker-name"><a href="https://www.linkedin.com/in/mikeksmith/">Mike K Smith</a></div>
+      <div class="speaker-role">Senior Director, Pfizer</div>
+    </div>
+  </div>
 </div>
 ```
 
 ::: {.mixer-block .reveal}
 🎤 **Open Floor — Live Executive Q&A**
 
-Attendees submit written questions throughout the morning; a panel answers them live and unscripted — a fast-paced way to surface the topics the room cares about most. *Panelists to be announced — check back as the agenda firms up.*
+Attendees submit written questions throughout the morning; a panel — including *Benjamin Arancibia* (GSK) and *Shannon Pileggi* (Prostate Cancer Clinical Trials Consortium), with a few more panelists still being confirmed — answers them live and unscripted, a fast-paced way to surface the topics the room cares about most.
 :::
 
 ::: {.mixer-block .reveal}
