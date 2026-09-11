@@ -200,7 +200,7 @@ Room 335 A/B/C is on the 3rd floor — the same floor as the main posit::conf(20
 | **10:30 – 11:20am** | *Eric Nantz* (Eli Lilly), *Dilip Raghunathan* (Regeneron) & *Mike K Smith* (Pfizer) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — 15-minute lightning talks from *Eric Nantz* (Eli Lilly), *Dilip Raghunathan* (Regeneron), and *Mike K Smith* (Pfizer) on what open source and AI actually look like day-to-day inside a pharma company, followed by a 10–15 minute Q&A panel with all three |
 | **11:30am – 12:30pm** | *Dror Berel* & *Eli Alexander Miller* (Atorus Research) | Lunch presentation & networking — proposals from *Dror Berel* (Biostatistics R Developer, Shiny/Teal) on Pharmaverse/Teal &amp; the public Teal Gallery Demos, and *Eli Alexander Miller* (Atorus Research) previewing [R Consortium Submissions WG Pilot 8](https://rconsortium.github.io/submissions-wg/) — a proposal to demonstrate responsible, auditable use of AI agents in the submissions pipeline, building on Pilots 1–7 *(20 min each, pending confirmation)* |
 | **12:30 – 12:40pm** | | Break |
-| **12:40 – 1:25pm** | *Benjamin Arancibia* (GSK), *Shannon Pileggi* (PCCTC) & 2–3 more TBD | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** — a panel featuring *Benjamin Arancibia* (GSK), *Shannon Pileggi* (Prostate Cancer Clinical Trials Consortium) and a few more panelists still being confirmed *(45 min)* |
+| **12:40 – 1:25pm** | *Benjamin Arancibia* (GSK), *Shannon Pileggi* (PCCTC), *Daniel Woodie* (Eli Lilly) & 1–2 more TBD | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** — a panel featuring *Benjamin Arancibia* (GSK), *Shannon Pileggi* (Prostate Cancer Clinical Trials Consortium), *Daniel Woodie* (Eli Lilly) and a few more panelists still being confirmed *(45 min)* |
 | **1:25 – 2:25pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 1 *(see the finalized topics below)* |
 | **2:25 – 2:40pm** | | Break |
 | **2:40 – 3:40pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 2 |
@@ -251,7 +251,7 @@ Room 335 A/B/C is on the 3rd floor — the same floor as the main posit::conf(20
 ::: {.mixer-block .reveal}
 🎤 **Open Floor — Live Executive Q&A**
 
-Attendees submit written questions throughout the morning; a panel — including *Benjamin Arancibia* (GSK) and *Shannon Pileggi* (Prostate Cancer Clinical Trials Consortium), with a few more panelists still being confirmed — answers them live and unscripted, a fast-paced way to surface the topics the room cares about most.
+Attendees submit written questions throughout the morning; a panel — including *Benjamin Arancibia* (GSK), *Shannon Pileggi* (Prostate Cancer Clinical Trials Consortium), and *Daniel Woodie* (Eli Lilly), with a few more panelists still being confirmed — answers them live and unscripted, a fast-paced way to surface the topics the room cares about most.
 :::
 
 ::: {.mixer-block .reveal}
