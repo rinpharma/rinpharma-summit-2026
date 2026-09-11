@@ -15,20 +15,15 @@ format:
   <h1 class="hero-title">R/Pharma Summits 2026</h1>
   <p class="hero-subtitle">Two in-person events for the pharma open-source community</p>
   <div class="hero-dates">
-    <a class="hero-date-pill" href="https://conf.posit.co/2026/registration">🇺🇸 September 13 &middot; Houston</a>
+    <a class="hero-date-pill" href="#us-summit-september-13-houston">🇺🇸 Go to US Summit · Sept 13, Houston</a>
     <span class="hero-sep">·</span>
-    <a class="hero-date-pill" href="https://rinpharma.com/contact.html">🇨🇭 October 5 &middot; Basel</a>
+    <a class="hero-date-pill eu" href="#eu-summit-october-5-basel">🇨🇭 Go to EU Summit · Oct 5, Basel</a>
   </div>
   <p class="hero-countdown">
     <span id="countdown-us">Houston —</span>
     <span class="hero-sep">·</span>
     <span id="countdown-eu">Basel —</span>
   </p>
-</div>
-
-<div class="quick-nav reveal">
-  <a class="quick-nav-btn us" href="#us-summit-september-13-houston">🇺🇸 Go to US Summit Info</a>
-  <a class="quick-nav-btn eu" href="#eu-summit-october-5-basel">🇨🇭 Go to EU Summit Info</a>
 </div>
 
 <div class="marquee">
@@ -73,7 +68,6 @@ format:
     <p><a href="https://conf.posit.co/2026/"><strong>Hilton Americas-Houston</strong></a>, Houston, TX</p>
     <p>The day before <a href="https://conf.posit.co/2026/">posit::conf(2026)</a> workshops begin. A full-day roundtable bringing together 80–100 pharma leaders and practitioners.</p>
     <hr>
-    <p style="font-size:0.84rem;">📍 <strong>Room 335 A/B/C</strong>, 3rd floor — same floor as the main conference. Look for the R/Pharma sign; Posit wayfinders will be on-site to help guide you.</p>
     <p style="font-size:0.84rem;">To attend without a conference pass, contact <a href="mailto:conf@posit.co">conf@posit.co</a></p>
     <p style="font-size:0.84rem;">Want to join the advisory board? <a href="https://rinpharma.com/contact.html">Contact us</a></p>
     <a class="card-link" href="https://conf.posit.co/2026/registration">Register →</a>
@@ -174,12 +168,13 @@ SUMMIT DETAILS
 Houston, Texas, USA  
 *The day before [posit::conf(2026)](https://conf.posit.co/2026/) workshops begin.*
 
-**R/Pharma Workshops — Monday, September 14:**
-
-- **Modern Clinical Reporting in R with the Pharmaverse** — end-to-end clinical reporting (SDTM, ADaM, TLGs, ARDs) for clinical programmers & biostatisticians
-- **Administering & Orchestrating Next-Gen Statistical Environments** — AI-integrated, GxP-compliant infrastructure, co-hosted by Pfizer & Posit
-
 [![R/Pharma Summit at posit::conf(2026) — Houston, Texas](images/conf2026-rpharma.webp){fig-align="center" width="80%"}](https://conf.posit.co/2026/registration)
+:::
+
+## Getting to Room 335 A/B/C (Houston)
+
+::: {.callout-important}
+Room 335 A/B/C is on the 3rd floor — the same floor as the main posit::conf(2026) sessions. Look for the R/Pharma sign; Posit wayfinders will be on-site to help guide you.
 :::
 
 ::: {.draft-notice}
@@ -188,9 +183,7 @@ Houston, Texas, USA
 
 ## Agenda
 
-::: {.draft-notice}
-📋 The agenda is still being finalized — speakers, exact timing, and the lunch session are subject to change.
-:::
+*A few details below (speakers, exact timing) are still subject to change.*
 
 ::: {.draft-notice}
 💻 Laptops optional — the day is conversational, not hands-on. 🎥 The day is not being recorded.
@@ -204,10 +197,10 @@ Houston, Texas, USA
 | **9:00 – 9:30am** | *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Eli Lilly) | Welcome, introductions & kickoff — *Phil Bowsher* (Posit), *Harvey Lieberman* (Novartis) & *Eric Nantz* (Eli Lilly) |
 | **9:30 – 10:20am** | *Joe Cheng* (Posit) | <span class="tag tag-ai">REPRODUCIBILITY</span> **The State of Regulatory Reproducibility** — *Joe Cheng* (Posit) on the state of reproducibility with R in regulated submissions: why Agency reviewers are asking harder questions, and the best practices that keep R code reviewable and trustworthy as coding practices continue to evolve with updates and AI |
 | **10:20 – 10:30am** | | Break |
-| **10:30 – 11:20am** | *Eric Nantz* (Eli Lilly), *Dilip Raghunathan* (Regeneron) & *Mike K Smith* (Pfizer) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — 15-minute lightning talks from *Eric Nantz* (Eli Lilly), *Dilip Raghunathan* (Regeneron), and *Mike K Smith* (Pfizer) on AI application in pharma, pain points, and the submission side, including metadata-driven approaches, followed by a 10–15 minute Q&A panel with all three |
+| **10:30 – 11:20am** | *Eric Nantz* (Eli Lilly), *Dilip Raghunathan* (Regeneron) & *Mike K Smith* (Pfizer) | <span class="tag tag-pharma">PHARMA AI</span> **Pharma AI in Practice** — 15-minute lightning talks from *Eric Nantz* (Eli Lilly), *Dilip Raghunathan* (Regeneron), and *Mike K Smith* (Pfizer) on what open source and AI actually look like day-to-day inside a pharma company, followed by a 10–15 minute Q&A panel with all three |
 | **11:30am – 12:30pm** | *Dror Berel* & *Eli Alexander Miller* (Atorus Research) | Lunch presentation & networking — proposals from *Dror Berel* (Biostatistics R Developer, Shiny/Teal) on Pharmaverse/Teal &amp; the public Teal Gallery Demos, and *Eli Alexander Miller* (Atorus Research) previewing [R Consortium Submissions WG Pilot 8](https://rconsortium.github.io/submissions-wg/) — a proposal to demonstrate responsible, auditable use of AI agents in the submissions pipeline, building on Pilots 1–7 *(20 min each, pending confirmation)* |
 | **12:30 – 12:40pm** | | Break |
-| **12:40 – 1:25pm** | *Benjamin Arancibia* (GSK), *Shannon Pileggi* (PCCTC) & 2–3 more TBD | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** — a panel featuring *Benjamin Arancibia* (GSK), *Shannon Pileggi* (Prostate Cancer Clinical Trials Consortium) and a few more panelists still being confirmed *(~30–45 min)* |
+| **12:40 – 1:25pm** | *Benjamin Arancibia* (GSK), *Shannon Pileggi* (PCCTC) & 2–3 more TBD | <span class="tag tag-panel">LIVE Q&A</span> **Open Floor — Live Executive Q&A** — a panel featuring *Benjamin Arancibia* (GSK), *Shannon Pileggi* (Prostate Cancer Clinical Trials Consortium) and a few more panelists still being confirmed *(45 min)* |
 | **1:25 – 2:25pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 1 *(see the finalized topics below)* |
 | **2:25 – 2:40pm** | | Break |
 | **2:40 – 3:40pm** | | <span class="tag tag-roundtable">ROUNDTABLE</span> **[Roundtable discussions](#us-summit-roundtable-topics)** — Session 2 |
@@ -273,6 +266,13 @@ Following a well-received happy hour last year, we're doing it again — join us
 </div>
 ```
 :::
+
+## Workshops
+
+Looking for a workshop to take at posit::conf while you're in Houston? You're in luck — two R/Pharma-relevant sessions run **Monday, September 14**:
+
+- **Modern Clinical Reporting in R with the Pharmaverse** — end-to-end clinical reporting (SDTM, ADaM, TLGs, ARDs) for clinical programmers & biostatisticians
+- **Administering & Orchestrating Next-Gen Statistical Environments** — AI-integrated, GxP-compliant infrastructure, co-hosted by Pfizer & Posit
 
 ## Hotel
 
