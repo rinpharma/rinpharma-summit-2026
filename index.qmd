@@ -126,7 +126,7 @@ St. Johanns-Hafen-Weg 5, Novartis Campus · Basel, Switzerland
 Please bring ID and head directly to the pavilion.
 :::
 
-![How to get to Novartis Pavilion from Novartis Campus tram stop](images/novartis-directions.png){fig-align="center" width="85%"}
+![How to get to Novartis Pavilion from Novartis Campus tram stop](https://github.com/user-attachments/assets/a2bde798-1b2e-4f56-b8ce-b36b8516abaf){fig-align="center" width="85%"}
 
 - **From EuroAirport Basel (15 min travel time):** Take the Airport Express Bus PTT 50 to Kannenfeldplatz. Change to Tram 1 (direction Dreirosenbrücke) to the Novartis Campus stop.
 - **By tram from Bahnhof Basel SBB (15 min travel time):** Take Tram 1 (direction Dreirosenbrücke, platform D) in front of the main station to the Novartis Campus stop.
